@@ -1,5 +1,3 @@
-### Modified  : 
-
 Modified from [Zach](https://github.com/checkcheckzz) system design repository. Added more links and topics to cover on both PS/DS & System Design Interviews. We will keep updating this posting from time to time.
 
 ## How to prepare system design questions?
