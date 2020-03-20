@@ -42,19 +42,13 @@ the detailed OOD design for a particular function. You may also need to design t
 
 Basics of OOPs, SOLID Concepts, algorithms and data structures will help a lot in clearing most tof the onsite interviews at large tech companies. Having a habit of solving problems on LeetCode or CodeFoces will definitely help in thinking faster and better in terms of approach to problem solving. 
 
-[What is PS/DS?](https://workat.tech/problem-solving/article/what-is-ps-ds-coding-round-efuatnl7zxju)
-
-[What is Machine Coding?](https://workat.tech/machine-coding/article/what-is-a-machine-coding-round-omfn1w54ojlg)
-
-[How to practice for Machine Coding?](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
-
-[Sample Machine Coding Problems](https://workat.tech/practice)
-
-[LeetCode Problems](https://leetcode.com/problemset/all/)
-
-[Try the CodeChef Medium Problems](https://www.codechef.com/problems/medium)
-
-[Try this as well](https://www.algoexpert.io/product)
+* [What is PS/DS?](https://workat.tech/problem-solving/article/what-is-ps-ds-coding-round-efuatnl7zxju)
+* [What is Machine Coding?](https://workat.tech/machine-coding/article/what-is-a-machine-coding-round-omfn1w54ojlg)
+* [How to practice for Machine Coding?](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
+* [Sample Machine Coding Problems](https://workat.tech/practice)
+* [LeetCode Problems](https://leetcode.com/problemset/all/)
+* [Try the CodeChef Medium Problems](https://www.codechef.com/problems/medium)
+* [Try this as well](https://www.algoexpert.io/product)
 
 ### [[⬆]](#toc) <a name='intro'>Basic Knowledge about System Design:</a>
 
@@ -84,6 +78,9 @@ Here are some articles about system design related topics.
 * [Bloom Filter : A Probabilistic Data Structure](https://medium.com/system-design-blog/bloom-filter-a-probabilistic-data-structure-12e4e5cf0638)
 * [Security By Design](https://blog.threatpress.com/security-design-principles-owasp/)
 * [How Netlify’s deploying and routing infrastructure works](https://medium.com/netlify/how-netlifys-deploying-and-routing-infrastructure-works-c90adbde3b8d)
+* [Basic Overview of Blockchain](https://www.edureka.co/blog/blockchain-architecture/)
+* [Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
+* [ML Reference Architecture](https://freeandopenmachinelearning.readthedocs.io/en/latest/architecture.html)
 
 Of course, if you want to dive into system related topics, here is a good collection of reading list about [services-engineering](https://github.com/mmcgrana/services-engineering), and
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
