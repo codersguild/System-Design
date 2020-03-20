@@ -1,10 +1,10 @@
 ### Modified  : 
 
-Modified from [Zach](https://github.com/checkcheckzz) system design repository. Added more links and topics to cover on both PS/DS & System Design Interviews. Feel free to contact [codersguild](https://thefullstacker.herokuapp.com/). 
+Modified from [Zach](https://github.com/checkcheckzz) system design repository. Added more links and topics to cover on both PS/DS & System Design Interviews. We will keep updating this posting from time to time.
 
 ## How to prepare system design questions?
 
-System design is a very broad topic. Even a software engineer with many years of working experience at a top IT company may not be an expert on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems. 
+System design is a very broad topic. Even a software engineer with many years of working experience at a top IT company may not be an expert on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems.
 
 This repository only teaches you how to handle the system design interview with a systematic approach in a short time. You can dive into each topic if you have time. Of course, welcome to add your thoughts!.
 
@@ -82,6 +82,8 @@ Here are some articles about system design related topics.
 * [Distributed Consistent Hashing](https://medium.com/ably-realtime/how-to-implement-consistent-hashing-efficiently-fe038d59fff2)
 * [System Design White Board](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 * [Bloom Filter : A Probabilistic Data Structure](https://medium.com/system-design-blog/bloom-filter-a-probabilistic-data-structure-12e4e5cf0638)
+* [Security By Design](https://blog.threatpress.com/security-design-principles-owasp/)
+* [How Netlify’s deploying and routing infrastructure works](https://medium.com/netlify/how-netlifys-deploying-and-routing-infrastructure-works-c90adbde3b8d)
 
 Of course, if you want to dive into system related topics, here is a good collection of reading list about [services-engineering](https://github.com/mmcgrana/services-engineering), and
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
@@ -293,6 +295,10 @@ Use design patterns such that it can be reused in multiple applications.
 #### Useful Websites
 
 * [101 Design Patterns & Tips for Developers](http://sourcemaking.com/design-patterns-and-tips)
+* [A Solid Guide to SOLID Principles](https://www.baeldung.com/solid-principles)
+* [SOLID Design Principles Explained](https://stackify.com/solid-design-principles/)
+* [SOLID Principles made easy](https://hackernoon.com/solid-principles-made-easy-67b1246bcdf)
+* [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
 
 ### [[⬆]](#toc) <a name='dsd'>Distributed System Design :</a>
 
@@ -302,3 +308,7 @@ Use design patterns such that it can be reused in multiple applications.
 * [Distributed Consensus : RAFT](http://thesecretlivesofdata.com/raft/)
 * [Distributed Consensus : PAXOS](https://medium.com/@logeshrajendran/paxos-a9d76ebf04f3)
 * [Two Generals Problem](https://www.youtube.com/watch?v=IP-rGJKSZ3s)
+
+#### More Info
+
+Feel free to contact [codersguild](https://thefullstacker.herokuapp.com/).
