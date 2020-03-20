@@ -1,23 +1,24 @@
 ### Modified  : 
 
-Modified from Zach (checkcheckzz) system design repository. Added more links and topics to cover.
+Modified from [Zach](https://github.com/checkcheckzz) system design repository. Added more links and topics to cover on both PS/DS & System Design Interviews. Feel free to contact [codersguild](https://thefullstacker.herokuapp.com/). 
 
 ## How to prepare system design questions?
 
-System design is a very broad topic. Even a software engineer with many years of working experience at a top IT company may not be an expert on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems.
+System design is a very broad topic. Even a software engineer with many years of working experience at a top IT company may not be an expert on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems. 
 
 This repository only teaches you how to handle the system design interview with a systematic approach in a short time. You can dive into each topic if you have time. Of course, welcome to add your thoughts!.
 
 ## <a name='toc'>Table of Contents</a>
-- [ ] [System Design Interview Tips](#tips)
+- [ ] [System Design Interview Tips & PS/DS](#tips)
 - [ ] [Basic Knowledge about System Design](#intro)
 - [ ] [Company Engineering Blogs](#blog)
 - [ ] [Products and Systems](#system)
 - [ ] [Hot Questions and Reference](#qs)
 - [ ] [Good Books](#bk)
 - [ ] [Object Oriented Design](#ood)
+- [ ] [Distributed System Design](#dsd)
 
-### [[⬆]](#toc) <a name='tips'>System Design Interview Tips:</a>
+### [[⬆]](#toc) <a name='tips'>System Design Interview Tips & PS/DS</a>
 
 **Clarify the constraints and identify the user cases**
 
@@ -36,6 +37,24 @@ Usually, a scalable system includes webserver (load balancer), service (service 
 
 For each component, you need to write the specific APIs for each component. You may need to finish
 the detailed OOD design for a particular function. You may also need to design the database schema for the database.
+
+**Revist Basic PS/DS & Machine Coding Questions**
+
+Basics of OOPs, SOLID Concepts, algorithms and data structures will help a lot in clearing most tof the onsite interviews at large tech companies. Having a habit of solving problems on LeetCode or CodeFoces will definitely help in thinking faster and better in terms of approach to problem solving. 
+
+[What is PS/DS?](https://workat.tech/problem-solving/article/what-is-ps-ds-coding-round-efuatnl7zxju)
+
+[What is Machine Coding?](https://workat.tech/machine-coding/article/what-is-a-machine-coding-round-omfn1w54ojlg)
+
+[How to practice for Machine Coding?](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
+
+[Sample Machine Coding Problems](https://workat.tech/practice)
+
+[LeetCode Problems](https://leetcode.com/problemset/all/)
+
+[Try the CodeChef Medium Problems](https://www.codechef.com/problems/medium)
+
+[Try this as well](https://www.algoexpert.io/product)
 
 ### [[⬆]](#toc) <a name='intro'>Basic Knowledge about System Design:</a>
 
@@ -56,6 +75,13 @@ Here are some articles about system design related topics.
 * [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
 * [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 * [Scalability, Availability & Stability Patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns)
+* [Simple Publisher-Subscriber design for Koinex : PushMan](https://medium.com/koinex-crunch/pushman-the-koinex-standard-for-realtime-experience-4122d2715c92)
+* [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+* [Testing in Production: the hard parts](https://medium.com/@copyconstruct/testing-in-production-the-hard-parts-3f06cefaf592)
+* [Distributed Tracing — we’ve been doing it wrong](https://medium.com/@copyconstruct/distributed-tracing-weve-been-doing-it-wrong-39fc92a857df)
+* [Distributed Consistent Hashing](https://medium.com/ably-realtime/how-to-implement-consistent-hashing-efficiently-fe038d59fff2)
+* [System Design White Board](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+* [Bloom Filter : A Probabilistic Data Structure](https://medium.com/system-design-blog/bloom-filter-a-probabilistic-data-structure-12e4e5cf0638)
 
 Of course, if you want to dive into system related topics, here is a good collection of reading list about [services-engineering](https://github.com/mmcgrana/services-engineering), and
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
@@ -232,12 +258,17 @@ Reference:
 Reference:   
 * [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached)
 
+**Basic SRE**
+Reference:
+[How Google Runs Production Systems?](https://landing.google.com/sre/)
+
 ### [[⬆]](#toc) <a name='bk'>Good Books:</a>
 
 * [Big Data: Principles and best practices of scalable realtime data systems](http://www.amazon.com/Big-Data-Principles-practices-scalable/dp/1617290343)
 * [Real-Time Analytics: Techniques to Analyze and Visualize Streaming Data](http://www.amazon.com/Real-Time-Analytics-Techniques-Visualize-Streaming/dp/1118837916)
 * [Building Microservices: Designing Fine-Grained Systems](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358)
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+* [Site Reliability Engineering - How Google Runs Production Systems  (English, Paperback, Beyer Betsy)](https://www.amazon.in/Site-Reliability-Engineering-Betsy-Beyer/dp/149192912X)
 
 ### [[⬆]](#toc) <a name='ood'>Object Oriented Design:</a>
 
@@ -262,3 +293,12 @@ Use design patterns such that it can be reused in multiple applications.
 #### Useful Websites
 
 * [101 Design Patterns & Tips for Developers](http://sourcemaking.com/design-patterns-and-tips)
+
+### [[⬆]](#toc) <a name='dsd'>Distributed System Design :</a>
+
+#### Distributed System Design
+
+* [Basics of Lamport Clocks](https://medium.com/@balrajasubbiah/lamport-clocks-and-vector-clocks-b713db1890d7)
+* [Distributed Consensus : RAFT](http://thesecretlivesofdata.com/raft/)
+* [Distributed Consensus : PAXOS](https://medium.com/@logeshrajendran/paxos-a9d76ebf04f3)
+* [Two Generals Problem](https://www.youtube.com/watch?v=IP-rGJKSZ3s)
