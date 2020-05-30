@@ -102,4 +102,4 @@ GRAPHQL {
     graphql_endpoint : https://medium.graphql.com
 ```
 
-<div>{Blog.Title}</div>
+```<div>{Blog.Title}</div>```
