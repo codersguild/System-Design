@@ -37,9 +37,12 @@ Author-id | Blog-Id      Blog-Id | Comments | Clap Count Analytics , jjj ... ML
 
 mongo.getDoc("kjasdbklfjbn") 
 
+
+```
 https://backend.medium.com/editBlog/jkr9834jr908jfnm
 https://backend.medium.com/deleteBlog/jkr9834jr908jfnm
 https://backend.medium.com/getBlogs/match?q=l;kmdsamf&&j=ljksndafl;n
+```
 
 ```
 RESTful -> VERBS HTTP GET, PUT, POST, DELETE
