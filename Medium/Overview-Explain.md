@@ -1,5 +1,6 @@
 How do I build a mini-medium, so that ....?
 
+```
 FRONTEND 
     React.js, Gulp, Webpack, NPM, Templates...
 MIDDLEND 
@@ -9,7 +10,9 @@ BACKEND + API
     Node.js, Django, PHP .../ Network Stack + CDN + ADN
 DATABASE
     PostgresQL, MongoDB
+```
 
+```
 Data Model 
 
 type Blog {
@@ -18,6 +21,7 @@ type Blog {
     author : "asdfasdf", 
     ...
 }
+```
 
 fetch("https://backend.medium.com/getBlogs", GET Request) -> JSON -> JSON.PARSE -> get back an Array[Blogs]
 
@@ -27,7 +31,9 @@ postgres.createDoc("kjasdbklfjbn", Obj<Blog>)
 
 mongo.query(fetch_blogs, author_id, claps > 5)
 
+```
 Author-id | Blog-Id      Blog-Id | Comments | Clap Count Analytics , jjj ... ML
+```
 
 mongo.getDoc("kjasdbklfjbn") 
 
@@ -35,13 +41,17 @@ https://backend.medium.com/editBlog/jkr9834jr908jfnm
 https://backend.medium.com/deleteBlog/jkr9834jr908jfnm
 https://backend.medium.com/getBlogs/match?q=l;kmdsamf&&j=ljksndafl;n
 
-
+```
 RESTful -> VERBS HTTP GET, PUT, POST, DELETE
+```
 
+```
 GRAPHQL {
     postgres_url : ec2.postgres.com
     dynamodb : ec2.mongo.com
 }
+```
+
 
 ```FRONTEND
     fetch("https://microsrevice.medium.com/_graphql", getAllBlogs, GET REQUEST)
