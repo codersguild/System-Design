@@ -84,6 +84,7 @@ Here are some articles about system design related topics.
 * [Basic Overview of Blockchain](https://www.edureka.co/blog/blockchain-architecture/)
 * [Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
 * [ML Reference Architecture](https://freeandopenmachinelearning.readthedocs.io/en/latest/architecture.html)
+* [Reducing Databse Costs](https://scalegrid.io/blog/reducing-your-database-hosting-costs-digitalocean-vs-aws-vs-azure/)
 
 Of course, if you want to dive into system related topics, here is a good collection of reading list about [services-engineering](https://github.com/mmcgrana/services-engineering), and
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
@@ -171,6 +172,7 @@ The following papers/articles/slides can help you to understand the general desi
 * [Uber Architecture](http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html)
 * [DropBox Design](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * [Splunk Architecture](http://www.splunk.com/view/SP-CAAABF9)
+* [Good Parts of AWS](https://www.educative.io/courses/good-parts-of-aws?aid=5082902844932096)
 
 ### [[⬆]](#toc) <a name='qs'>Hot Questions and Reference:</a>
 
