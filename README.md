@@ -270,11 +270,11 @@ Reference:
 
 **Basic SRE**
 Reference:
-[How Google Runs Production Systems?](https://landing.google.com/sre/)
+* [How Google Runs Production Systems?](https://landing.google.com/sre/)
 
 **Design a React Native Application**
 Reference : 
-[Facebook F8 App](https://makeitopen.com/)
+* [Facebook F8 App](https://makeitopen.com/)
 
 ### [[⬆]](#toc) <a name='bk'>Good Books:</a>
 
