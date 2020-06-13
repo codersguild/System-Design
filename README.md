@@ -272,6 +272,10 @@ Reference:
 Reference:
 [How Google Runs Production Systems?](https://landing.google.com/sre/)
 
+**Design a React Native Application**
+Reference : 
+[Facebook F8 App](https://makeitopen.com/)
+
 ### [[⬆]](#toc) <a name='bk'>Good Books:</a>
 
 * [Big Data: Principles and best practices of scalable realtime data systems](http://www.amazon.com/Big-Data-Principles-practices-scalable/dp/1617290343)
