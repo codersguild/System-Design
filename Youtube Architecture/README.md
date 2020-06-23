@@ -1,4 +1,3 @@
-# System-Design
+## Youtube Architecture
 
-System Design Concepts and Resources. 
-
+* [YT-ARCH](http://highscalability.com/youtube-architecture)
