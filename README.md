@@ -1,6 +1,6 @@
 Modified from [Zach](https://github.com/checkcheckzz) system design repository. Added more links and topics to cover on both PS/DS & System Design Interviews. We will keep updating this posting from time to time. 
 
-## WIP 
+## More Content Comming !!
 
 We are working to create good content to fulfil the needs of system-design noobs. Please feel free to share any resource or material at ```lahiri.devs@gmail.com```.
 
