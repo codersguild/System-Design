@@ -85,6 +85,7 @@ Here are some articles about system design related topics.
 * [Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
 * [ML Reference Architecture](https://freeandopenmachinelearning.readthedocs.io/en/latest/architecture.html)
 * [Reducing Databse Costs](https://scalegrid.io/blog/reducing-your-database-hosting-costs-digitalocean-vs-aws-vs-azure/)
+
 Some Linux Know-How. Course enrollment is not endorsed by me. Just a summary of what good Linux know-how is.
 * [Linux Know How](https://training.linuxfoundation.org/training/linux-kernel-internals-and-development/)
 
