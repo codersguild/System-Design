@@ -5,3 +5,4 @@
 - [ ] https://stackoverflow.com/questions/3414277/cqrs-eventual-consistencyhttps://stackoverflow.com/questions/3414277/cqrs-eventual-consistency
 - [ ] https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design
 - [ ] https://stackoverflow.com/questions/5466012/nosql-and-eventual-consistency-real-world-examples
+- [ ] https://medium.com/dev-genius/microservices-design-api-gateway-pattern-980e8d02bdd5
