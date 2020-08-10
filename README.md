@@ -324,6 +324,10 @@ Use design patterns such that it can be reused in multiple applications.
 * [Distributed Consensus : PAXOS](https://medium.com/@logeshrajendran/paxos-a9d76ebf04f3)
 * [Two Generals Problem](https://www.youtube.com/watch?v=IP-rGJKSZ3s)
 
+#### Misc 
+
+* [Scale like a Pro](https://medium.com/swlh/how-i-scaled-a-software-systems-performance-by-35-000-6dacd63732df)
+
 #### More Info
 
 Feel free to contact [codersguild](https://thefullstacker.herokuapp.com/).
