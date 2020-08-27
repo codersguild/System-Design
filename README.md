@@ -327,6 +327,7 @@ Use design patterns such that it can be reused in multiple applications.
 #### Misc 
 
 * [Scale like a Pro](https://medium.com/swlh/how-i-scaled-a-software-systems-performance-by-35-000-6dacd63732df)
+* [GoLang to Node.Js](https://medium.com/thecobbles/why-we-moved-from-golang-to-nodejs-cecf66a47740)
 
 #### More Info
 
