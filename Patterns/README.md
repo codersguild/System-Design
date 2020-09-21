@@ -1,0 +1,14 @@
+## Design Patterns (What and What not?) 
+
+- [Source Making : Design Patterns Examples](https://sourcemaking.com/design_patterns)
+- [Anti Patterns] (https://sourcemaking.com/antipatterns/software-development-antipatterns)
+- [Refactoring Guru](https://refactoring.guru/design-patterns)
+
+## Videos 
+
+#### ```S.O.L.I.D Principles```
+
+- [Uncle Bob](https://www.youtube.com/watch?v=zHiWqnTWsn4)
+- [Python Design Patterns](https://www.youtube.com/watch?v=bsyjSW46TDg)
+- [More Python Stuff](https://www.youtube.com/watch?v=Er5K_nR5lDQ&list=PLaL2yxczKLcBQIHFvQmjI47Qtwg8MpGHN&index=1)
+- [More Python Design Patterns](https://www.youtube.com/watch?v=4KZx8bATBFs&list=PLaL2yxczKLcBQIHFvQmjI47Qtwg8MpGHN&index=2)
