@@ -4,6 +4,7 @@
 - [Anti Patterns in Software Development](https://sourcemaking.com/antipatterns/software-development-antipatterns)
 - [Refactoring Guru](https://refactoring.guru/design-patterns)
 - [SOLID in CPP](https://corecppil.github.io/Meetups/2020-05-26_CoreCpp_Worldwide!/The_SOLID_Principles.pdf)
+- Some More Considerrations : [Tapad Engineering](http://highscalability.com/blog/2015/5/11/designing-for-scale-three-principles-and-three-practices-fro.html)
 
 ## Videos 
 
