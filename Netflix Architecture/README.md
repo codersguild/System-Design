@@ -29,3 +29,5 @@
 * [Netflix: Developing, Deploying, And Supporting Software According To The Way Of The Cloud](http://highscalability.com/blog/2011/12/12/netflix-developing-deploying-and-supporting-software-accordi.html)
 
 * [NETFLIX system design](https://medium.com/@narengowda/netflix-system-design-dbec30fede8d)
+
+* [Byte Down: Making Netflix’s Data Infrastructure Cost-Effective](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032)
