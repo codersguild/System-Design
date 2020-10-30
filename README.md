@@ -56,6 +56,7 @@ Basics of OOPs, SOLID Concepts, algorithms and data structures will help a lot i
 
 Here are some articles about system design related topics.  
 
+* [Node Clean Architecture](https://medium.com/better-programming/node-clean-architecture-deep-dive-ab68e523554b)
 * [Services Engineering Resources](https://github.com/mmcgrana/services-engineering)
 * [How to Rock a Systems Design Interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 * [System Interview](http://www.hiredintech.com/app#system-design)
