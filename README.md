@@ -1,4 +1,8 @@
-Modified from [Zach](https://github.com/checkcheckzz) system design repository. Added more links and topics to cover on both PS/DS & System Design Interviews. We will keep updating this posting from time to time. I complieda nd collected some of the articles as a part of doing ```CS654A``` Course at ```IIT Kanpur``` for a fantastic  course on ```Advanced Software Architecture``` taught by ```Prof. Dr. T. V. Prabbhakar```.
+### System Design Bytes for Enthusiasts
+
+##### I complied and collected some of the articles as a part of doing ```CS654A``` Course at ```IIT Kanpur``` for a fantastic course on ```Advanced Software Architecture``` taught by ```Prof. Dr. T. V. Prabbhakar```.
+
+Modified from [Zach](https://github.com/checkcheckzz) system design repository. Added more links and topics to cover on both PS/DS & System Design Interviews. We will keep updating this posting from time to time. 
 
 ## More Content Comming !!
 
