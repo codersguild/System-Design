@@ -1,4 +1,4 @@
-# System-Design
+## E-Commerce Architecture 
 
-System Design Concepts and Resources. 
+- [Initial Amazon Architecture](http://highscalability.com/amazon-architecture) 
 
