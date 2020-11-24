@@ -100,6 +100,10 @@ Some Linux Know-How. Course enrollment is not endorsed by me. Just a summary of 
 Of course, if you want to dive into system related topics, here is a good collection of reading list about [services-engineering](https://github.com/mmcgrana/services-engineering), and
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
 
+### [[⬆]](#toc) <a name='blog'>Off-topic Blogs:</a>
+
+* [Architecture of Machine Learning Systems](https://medium.com/louis-dorard/architecture-of-a-real-world-machine-learning-system-795254bec646)
+
 ### [[⬆]](#toc) <a name='blog'>Company Engineering Blogs:</a>
 
 If you are going to have an onsite with a company, you should read their engineering blog. 
