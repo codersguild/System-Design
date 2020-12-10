@@ -213,6 +213,7 @@ Reference:
 
 **Design the Facebook news feed function**   
 Reference:   
+* [Deisgn a News Feed System](https://medium.com/@bansal_ankur/design-a-news-feed-system-6bf42e9f03fb)
 * [What are best practices for building something like a News Feed?](http://www.quora.com/What-are-best-practices-for-building-something-like-a-News-Feed) 
 * [What are the scaling issues to keep in mind while developing a social network feed?](http://www.quora.com/Activity-Streams/What-are-the-scaling-issues-to-keep-in-mind-while-developing-a-social-network-feed) 
 * [Activity Feeds Architecture](http://www.slideshare.net/danmckinley/etsy-activity-feeds-architecture)
