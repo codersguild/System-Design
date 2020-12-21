@@ -25,6 +25,7 @@ This repository only teaches you how to handle the system design interview with 
 - [ ] [Good Books](#bk)
 - [ ] [Object Oriented Design](#ood)
 - [ ] [Distributed System Design](#dsd)
+- [ ] [Projects to Try](#prjt)
 
 ### [[⬆]](#toc) <a name='tips'>System Design Interview Tips & PS/DS</a>
 
@@ -337,11 +338,16 @@ Use design patterns such that it can be reused in multiple applications.
 * [Distributed Consensus : PAXOS](https://medium.com/@logeshrajendran/paxos-a9d76ebf04f3)
 * [Two Generals Problem](https://www.youtube.com/watch?v=IP-rGJKSZ3s)
 
+### [[⬆]](#toc) <a name='prjt'>Projects to try :</a>
+
+* [Projects to try](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
+
 #### Misc 
 
 * [Scale like a Pro](https://medium.com/swlh/how-i-scaled-a-software-systems-performance-by-35-000-6dacd63732df)
 * [GoLang to Node.Js](https://medium.com/thecobbles/why-we-moved-from-golang-to-nodejs-cecf66a47740)
 
+#### 
 #### More Info
 
-Feel free to contact [codersguild](https://thefullstacker.herokuapp.com/).
+Feel free to contact [codersguild](https://lahiri.netlify.app/).
