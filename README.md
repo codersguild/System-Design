@@ -351,4 +351,4 @@ Use design patterns such that it can be reused in multiple applications.
 #### 
 #### More Info
 
-Feel free to contact [codersguild](https://lahiri.netlify.app/).
+Feel free to contact [Sumit Lahiri](mailto:lahiri.devs@gmail.com) 
