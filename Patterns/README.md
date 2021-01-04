@@ -9,7 +9,7 @@
 ## More Articles 
 
 - Bit Outdated but resourceful : [https://www.oodesign.com/](https://www.oodesign.com/)
-- Some More Considerrations : [Tapad Engineering](http://highscalability.com/blog/2015/5/11/designing-for-scale-three-principles-and-three-practices-fro.html)
+- Some More Considerations : [Tapad Engineering](http://highscalability.com/blog/2015/5/11/designing-for-scale-three-principles-and-three-practices-fro.html)
 - Core Frontend React Design principles : [https://reactjs.org/docs/design-principles.html](https://reactjs.org/docs/design-principles.html)
 - [Patterns : Thinking About Microservices](https://www.infoq.com/articles/microservices-design-ideals/?itm_source=infoq&itm_medium=popular_widget&itm_campaign=popular_content_list&itm_content=)
 
