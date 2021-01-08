@@ -9,3 +9,5 @@
 - Automated Crypto Trading : [https://github.com/gkovacs/cs230-cryptocurrency-trading-lstm](https://github.com/gkovacs/cs230-cryptocurrency-trading-lstm)
 
 - Blockchain Architecture @Coinbase : [https://blog.coinbase.com/blockchain-infrastructure-at-coinbase-366c09dbcef4](https://blog.coinbase.com/blockchain-infrastructure-at-coinbase-366c09dbcef4)
+
+- [https://www.infoq.com/news/2020/07/coinbase-kubernetes/](https://www.infoq.com/news/2020/07/coinbase-kubernetes/)
