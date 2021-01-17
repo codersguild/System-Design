@@ -37,6 +37,11 @@ Remember to make sure you know all the requirements the interviewer didn't tell 
 User cases indicate the main functions of the system, and constraints list the scale of the system such as requests 
 per second, requests types, data written per second, data read per second.
 
+In a real world scenario, beyond a white-board interview setting one must understand the `functional` & `non-functional` requirements of an 
+engineering project. 
+
+- [Requirements Engineering](https://medium.com/omarelgabrys-blog/requirements-engineering-introduction-part-1-6d49001526d3)
+
 **High-level architecture design**
 
 Sketch the important components and the connections between them, but don't go into some details. 
