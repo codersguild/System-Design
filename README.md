@@ -41,6 +41,7 @@ In a real world scenario, beyond a white-board interview setting one must unders
 engineering project. 
 
 - [Requirements Engineering](https://medium.com/omarelgabrys-blog/requirements-engineering-introduction-part-1-6d49001526d3)
+- [How to manage Modern Software Projects ?](https://medium.com/@lizparody/waterfall-vs-agile-methodology-in-software-development-1e19ef168cf6)
 
 **High-level architecture design**
 
