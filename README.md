@@ -106,6 +106,7 @@ Here are some articles about system design related topics.
 * [Terraform Software](https://www.terraform.io/)
 Some Linux Know-How. Course enrollment is not endorsed by me. Just a summary of what good Linux know-how is.
 * [Linux Know How](https://training.linuxfoundation.org/training/linux-kernel-internals-and-development/)
+* [Architecture of Open Source Systems](http://aosabook.org/en/index.html)
 
 Of course, if you want to dive into system related topics, here is a good collection of reading list about [services-engineering](https://github.com/mmcgrana/services-engineering), and
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
