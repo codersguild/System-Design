@@ -104,8 +104,7 @@ Here are some articles about system design related topics.
 * [Reducing Databse Costs](https://scalegrid.io/blog/reducing-your-database-hosting-costs-digitalocean-vs-aws-vs-azure/)
 * [Patterns : Thinking About Microservices](https://www.infoq.com/articles/microservices-design-ideals/?itm_source=infoq&itm_medium=popular_widget&itm_campaign=popular_content_list&itm_content=)
 * [Terraform Software](https://www.terraform.io/)
-* Some Linux Know-How. Course enrollment is not endorsed by me. Just a summary of what good Linux know-how is. 
-* [Linux Know How](https://training.linuxfoundation.org/training/linux-kernel-internals-and-development/)
+* Some Linux Know-How. Course enrollment is not endorsed by me. Just a summary of what good Linux know-how is. [Linux Know How](https://training.linuxfoundation.org/training/linux-kernel-internals-and-development/)
 * [Architecture of Open Source Systems](http://aosabook.org/en/index.html)
 * [Some Quickstart ML know-how for system design : What to use? Where to use it?](https://youtu.be/VyWAvY2CF9c)
 * [Quick : Observability and Microservices](https://www.infoq.com/news/2018/06/observability-microservices/)
