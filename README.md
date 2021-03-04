@@ -108,6 +108,7 @@ Here are some articles about system design related topics.
 * [Architecture of Open Source Systems](http://aosabook.org/en/index.html)
 * [Some Quickstart ML know-how for system design : What to use? Where to use it?](https://youtu.be/VyWAvY2CF9c)
 * [Quick : Observability and Microservices](https://www.infoq.com/news/2018/06/observability-microservices/)
+* [System Design Interviews](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
 
 Of course, if you want to dive into system related topics, here is a good collection of reading list about [services-engineering](https://github.com/mmcgrana/services-engineering), and
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
