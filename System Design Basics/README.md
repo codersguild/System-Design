@@ -8,4 +8,5 @@
 * [Load Balancing](https://www.educative.io/courses/grokking-the-system-design-interview/3jEwl04BL7Q)
 * [Designing a URL Shortening service like TinyURL](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
 * [When is a API not RESTFUL?](https://www.infoq.com/articles/web-api-rest/)
-* [Go Use Cases](https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html)
+* [Go Use Cases : With scalability in Mind](https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html)
+* [On Engineering Dependibility](http://highscalability.com/blog/2021/2/19/engineering-dependability-and-fault-tolerance-in-a-distribut.html)
