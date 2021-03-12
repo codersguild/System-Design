@@ -203,6 +203,7 @@ The following papers/articles/slides can help you to understand the general desi
 * [DropBox Design](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * [Splunk Architecture](http://www.splunk.com/view/SP-CAAABF9)
 * [Good Parts of AWS](https://www.educative.io/courses/good-parts-of-aws?aid=5082902844932096)
+* [Azure DataCenter Architecture](https://youtu.be/69PrhWQorEM)
 
 ### [[⬆]](#toc) <a name='qs'>Hot Questions and Reference:</a>
 
