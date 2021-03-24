@@ -363,7 +363,6 @@ Use design patterns such that it can be reused in multiple applications.
 * [GoLang to Node.Js](https://medium.com/thecobbles/why-we-moved-from-golang-to-nodejs-cecf66a47740)
 * [Documenting Software Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
 
-#### 
 #### More Info
 
 Feel free to contact [Sumit Lahiri](mailto:lahiri.devs@gmail.com) 
