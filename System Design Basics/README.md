@@ -10,3 +10,4 @@
 * [When is a API not RESTFUL?](https://www.infoq.com/articles/web-api-rest/)
 * [Go Use Cases : With scalability in Mind](https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html)
 * [On Engineering Dependibility](http://highscalability.com/blog/2021/2/19/engineering-dependability-and-fault-tolerance-in-a-distribut.html)
+* [More on System Design Basics](https://medium.com/system-design-blog)
