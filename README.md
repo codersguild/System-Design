@@ -110,6 +110,7 @@ Here are some articles about system design related topics.
 * [Quick : Observability and Microservices](https://www.infoq.com/news/2018/06/observability-microservices/)
 * [System Design Interviews](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
 * [Intro to Distributed Logging](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/)
+* [Usenix -- Gmail Overview](https://www.usenix.org/legacy/event/webapps10/tech/slides/deboor.pdf)
  
 Of course, if you want to dive into system related topics, here is a good collection of reading list about [services-engineering](https://github.com/mmcgrana/services-engineering), and
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
