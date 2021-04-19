@@ -7,3 +7,4 @@
 * [Amazon Simple Notification Service](https://aws.amazon.com/pub-sub-messaging/#:~:text=What%20is%20Pub%2FSub%20Messaging%3F,the%20subscribers%20to%20the%20topic.)
 * [Checkout Pub-Nub Mobile Framework -- JS Example](https://www.pubnub.com/docs/platform/quickstarts/javascript)
 * [Real-Time Performance Analysis for Publish/Subscribe Systems](http://dsc.soic.indiana.edu/publications/Realtime%20PubSub_Sangyoon.pdf)
+* [In-House Pub-Sub using Node.js & Redis.io](https://www.smashingmagazine.com/2018/06/pub-sub-service-in-house-node-js-redis/)
