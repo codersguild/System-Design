@@ -1,6 +1,6 @@
 ## E-Poll
 
-E-poll is the answer to the ```C1M``` definitely, `C10M`? Eh! 
+E-poll is an answer to the ```C1M``` definitely, `C10M`? Eh! 
 But does it solve ```C1B```? It wasn't meant to solve `C1B` !!
 
 * [Epoll Madness](https://medium.com/@copyconstruct/the-method-to-epolls-madness-d9d2d6378642)
