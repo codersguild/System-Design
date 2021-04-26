@@ -5,3 +5,4 @@
 - [Scaling to Millions of Simultaneous Connections: Rick Reed](https://vimeo.com/44312354)
 - [What's Up WhatsApp? (Jan Koum, CEO at WhatsApp & David Rowan) | DLD14](https://www.youtube.com/watch?v=WgAtBTpm6Xk&feature=youtu.be)
 - [yowsup WhatsApp Python Lib for Communication](https://github.com/tgalal/yowsup/wiki/Architecture)
+- [IBM Blog : XMPP Architecture](https://developer.ibm.com/technologies/messaging/tutorials/x-xmppintro/)
