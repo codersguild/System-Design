@@ -31,3 +31,5 @@
 * [NETFLIX system design](https://medium.com/@narengowda/netflix-system-design-dbec30fede8d)
 
 * [Byte Down: Making Netflix’s Data Infrastructure Cost-Effective](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032)
+
+* [Comparision : Amazon Prime Video Delivery](https://www.youtube.com/watch?v=2YAz20284FI)
