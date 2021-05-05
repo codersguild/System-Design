@@ -240,6 +240,7 @@ Reference:
 Reference: 
 * [Building Timeline](https://www.facebook.com/note.php?note_id=10150468255628920) 
 * [Facebook Timeline](http://highscalability.com/blog/2012/1/23/facebook-timeline-brought-to-you-by-the-power-of-denormaliza.html)
+* [Facebook System Design](https://www.codekarle.com/system-design/facebook-system-design.html)
 
 **Design a function to return the top k requests during past time interval**   
 Reference:  
@@ -279,6 +280,7 @@ Reference:
 Reference: 
 * [System Design for Big Data-tinyurl](http://n00tc0d3r.blogspot.com/) 
 * [URL Shortener API](https://developers.google.com/url-shortener/?csw=1)
+* [Tiny URL System Design](https://www.youtube.com/watch?v=AVztRY77xxA)
 
 **Design a garbage collection system**    
 Reference:   
@@ -292,6 +294,16 @@ Reference:
 Reference:   
 * [Erlang at Facebook](http://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf)  
 * [Facebook Chat](https://www.facebook.com/note.php?note_id=14218138919&id=9445547199&index=0)
+* [Facebook Messenger/Whatsapp System Design](https://www.youtube.com/watch?v=RjQjbJ2UJDg)
+
+**Design a micro blogging site**    
+Reference:   
+* [Twitter System Design](https://www.youtube.com/watch?v=EkudBdvbDhs)
+
+
+**Design hotel booking platform**    
+Reference:   
+* [AirBNB/Booking.com System Design](https://www.youtube.com/watch?v=YyOXt2MEkv4)
 
 **Design a trending topic system**    
 Reference:  
@@ -345,6 +357,7 @@ Use design patterns such that it can be reused in multiple applications.
 * [SOLID Design Principles Explained](https://stackify.com/solid-design-principles/)
 * [SOLID Principles made easy](https://hackernoon.com/solid-principles-made-easy-67b1246bcdf)
 * [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
+* [Common System Design Interview Questions](https://www.codekarle.com/)
 
 ### [[⬆]](#toc) <a name='dsd'>Distributed System Design :</a>
 
