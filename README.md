@@ -118,6 +118,7 @@ a good collection of material about [distributed systems](http://dancres.github.
 ### [[⬆]](#toc) <a name='blog'>Off-topic Blogs:</a>
 
 * [Architecture of Machine Learning Systems](https://medium.com/louis-dorard/architecture-of-a-real-world-machine-learning-system-795254bec646)
+* [Engineering Dependability And Fault Tolerance In A Distributed System - @@Ably](http://highscalability.com/blog/2021/2/19/engineering-dependability-and-fault-tolerance-in-a-distribut.html)
 
 ### [[⬆]](#toc) <a name='blog'>Company Engineering Blogs:</a>
 
@@ -162,6 +163,7 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Booking.com Development Blog](https://blog.booking.com/)
 * [Scalyr Engineering Blog ](https://blog.scalyr.com/)
 * [Architect.io Blog](https://www.architect.io/blog)
+* [Ably Engineering Blog](https://ably.com/blog)
 
 ### [[⬆]](#toc) <a name='system'>Products and Systems:</a>
 
