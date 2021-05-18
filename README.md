@@ -70,6 +70,7 @@ Basics of OOPs, SOLID Concepts, algorithms and data structures will help a lot i
 Here are some articles about system design related topics.  
 
 * [Chaos Engineering](https://principlesofchaos.org/)
+* [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 * [Educative.io & Other Lists](https://www.8bitmen.com/best-resources-to-learn-software-architecture-system-design/)
 * [Node Clean Architecture](https://medium.com/better-programming/node-clean-architecture-deep-dive-ab68e523554b)
 * [Services Engineering Resources](https://github.com/mmcgrana/services-engineering)
