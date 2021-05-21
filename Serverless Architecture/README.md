@@ -5,3 +5,4 @@
 - [Building a Serverless URL Shortener](https://www.freecodecamp.org/news/how-to-build-a-serverless-url-shortener-using-aws-lambda-and-s3-4fbdf70cbf5c/)
 - [Building a Serverless MEME Generator](https://www.alibabacloud.com/blog/fun-with-functions-building-a-serverless-meme-generator-with-function-compute_596421)
 - [Intro : Google Cloud Funtions](https://www.serverless.com/framework/docs/providers/google/examples/) 
+- [Khan Academy : Serverless](https://www.nextplatform.com/2021/05/12/serverless-veteran-khan-academy-on-pros-cons/)
