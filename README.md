@@ -89,6 +89,7 @@ Here are some articles about system design related topics.
 * [Simple : Consistent Hashing](https://medium.com/omarelgabrys-blog/consistent-hashing-beyond-the-basics-525304a12ba)
 * [More On : Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
 * [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
+* [Emerging Architectures](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 * [Scalability, Availability & Stability Patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns)
 * [Simple Publisher-Subscriber design for Koinex : PushMan](https://medium.com/koinex-crunch/pushman-the-koinex-standard-for-realtime-experience-4122d2715c92)
 * [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
