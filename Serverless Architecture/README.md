@@ -6,3 +6,4 @@
 - [Building a Serverless MEME Generator](https://www.alibabacloud.com/blog/fun-with-functions-building-a-serverless-meme-generator-with-function-compute_596421)
 - [Intro : Google Cloud Funtions](https://www.serverless.com/framework/docs/providers/google/examples/) 
 - [Khan Academy : Serverless](https://www.nextplatform.com/2021/05/12/serverless-veteran-khan-academy-on-pros-cons/)
+- [Example : Serverless App](https://www.infoq.com/news/2021/02/serverless-react-apps-aws-lambda/)
