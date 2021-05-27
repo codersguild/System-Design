@@ -7,3 +7,4 @@
 - [Intro : Google Cloud Funtions](https://www.serverless.com/framework/docs/providers/google/examples/) 
 - [Khan Academy : Serverless](https://www.nextplatform.com/2021/05/12/serverless-veteran-khan-academy-on-pros-cons/)
 - [Example : Serverless App](https://www.infoq.com/news/2021/02/serverless-react-apps-aws-lambda/)
+- [Serverless Functions for Microservices?](https://www.infoq.com/articles/serverless-microservices-flexibility/)
