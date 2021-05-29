@@ -111,6 +111,7 @@ Here are some articles about system design related topics.
 * [Some Quickstart ML know-how for system design : What to use? Where to use it?](https://youtu.be/VyWAvY2CF9c)
 * [Quick : Observability and Microservices](https://www.infoq.com/news/2018/06/observability-microservices/)
 * [System Design Interviews](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
+* [Designing Microservices](https://www.youtube.com/watch?v=j6ow-UemzBc)
 * [Intro to Distributed Logging](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/)
 * [Usenix -- Gmail Overview](https://www.usenix.org/legacy/event/webapps10/tech/slides/deboor.pdf)
  
