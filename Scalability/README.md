@@ -1,2 +1,8 @@
+# Scalability
 
 - [Scalable Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
+- [https://www.infoq.com/news/2009/05/8-Best-Practices-Scalability/](https://www.infoq.com/news/2009/05/8-Best-Practices-Scalability/)
+- [https://www.infoq.com/articles/ebay-scalability-best-practices/](https://www.infoq.com/articles/ebay-scalability-best-practices/)
+- [http://highscalability.com/blog/2009/8/11/13-scalability-best-practices.html](http://highscalability.com/blog/2009/8/11/13-scalability-best-practices.html)
+- [https://www.keycdn.com/blog/scalability-testing](https://www.keycdn.com/blog/scalability-testing)
+- [Node.js App with Auto-scalling](https://node.university/blog/10954/aws-autoscaling)
