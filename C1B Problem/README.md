@@ -1,7 +1,6 @@
-## E-Poll
+# What is `epoll` & `C1M` problem?
 
-E-poll is an answer to the ```C1M``` definitely, `C10M`? Eh! 
-But does it solve ```C1B```? It wasn't meant to solve `C1B` !!
+E-poll is an answer to the ```C1M``` definitely, `C10M`? Eh! But does it solve ```C1B```? 
 
 * [Epoll Madness](https://medium.com/@copyconstruct/the-method-to-epolls-madness-d9d2d6378642)
 * [Async on E-Poll](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
