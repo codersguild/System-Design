@@ -327,6 +327,10 @@ Reference:
 Reference : 
 * [Facebook F8 App](https://makeitopen.com/)
 
+**Numbers from concerte implementations**
+References : 
+* [DB Comparisions](http://highscalability.com/blog/2021/2/17/benchmark-ycsb-numbers-for-redis-mongodb-couchbase2-yugabyte.html)
+
 ### [[⬆]](#toc) <a name='bk'>Good Books:</a>
 
 * [Big Data: Principles and best practices of scalable realtime data systems](http://www.amazon.com/Big-Data-Principles-practices-scalable/dp/1617290343)
