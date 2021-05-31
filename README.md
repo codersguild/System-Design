@@ -6,9 +6,13 @@
 
 Modified from [Zach](https://github.com/checkcheckzz) system design repository. Added more links and topics to cover on both PS/DS & System Design Interviews. We will keep updating this posting from time to time. Some more [awesome resource](https://github.com/binhnguyennus/awesome-scalability)
 
-## More Content Comming !!
+## More Content Comming !
 
 We are working to create good content to fulfil the needs of system-design noobs. Please feel free to share any resource or material at ```lahiri.devs@gmail.com```.
+
+## All-Time Favourites from `Highscalability.com`
+
+* [http://highscalability.com/all-time-favorites/](http://highscalability.com/all-time-favorites/)
 
 ## How to prepare system design questions?
 
