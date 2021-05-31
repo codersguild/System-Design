@@ -12,3 +12,5 @@
 * [On Engineering Dependibility](http://highscalability.com/blog/2021/2/19/engineering-dependability-and-fault-tolerance-in-a-distribut.html)
 * [More on System Design Basics](https://medium.com/system-design-blog)
 * [API Gateway Pattern](https://microservices.io/patterns/apigateway.html)
+* [Architecting Backend For A Social Product](http://highscalability.com/blog/2015/7/22/architecting-backend-for-a-social-product.html)
+* [http://highscalability.com/plentyoffish-architecture](http://highscalability.com/plentyoffish-architecture)
