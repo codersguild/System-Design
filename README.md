@@ -114,7 +114,8 @@ Here are some articles about system design related topics.
 * [Designing Microservices](https://www.youtube.com/watch?v=j6ow-UemzBc)
 * [Intro to Distributed Logging](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/)
 * [Usenix -- Gmail Overview](https://www.usenix.org/legacy/event/webapps10/tech/slides/deboor.pdf)
- 
+* [Jeff Dean On Large-Scale Deep Learning At Google](http://highscalability.com/blog/2016/3/16/jeff-dean-on-large-scale-deep-learning-at-google.html)
+
 Of course, if you want to dive into system related topics, here is a good collection of reading list about [services-engineering](https://github.com/mmcgrana/services-engineering), and
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
 
