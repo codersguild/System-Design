@@ -9,3 +9,5 @@
 - [Sherlock: Near Real Time Search Indexing](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d)
 - [Foxtrot — Event Analytics At Scale](https://tech.flipkart.com/foxtrot-event-analytics-at-scale-bdcdc75402dc)
 - [AESOP change propagation system](https://tech.flipkart.com/aesop-change-propagation-system-a4c0f2a0d242)
+- [Making deliveries faster — The Flipkart Cache Cluster](https://tech.flipkart.com/making-deliveries-faster-the-flipkart-cache-cluster-953659c06a3a)
+- [Palette Image Generate — Technology to the rescue](https://tech.flipkart.com/palette-image-generation-technology-to-the-rescue-22000aac34b3)
