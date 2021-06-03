@@ -8,3 +8,4 @@
 - [Deployment reliability at GitHub](https://github.blog/2021-02-03-deployment-reliability-at-github/)
 - [Visual Globe :  GitHub Globe (UX/UI)](https://github.blog/2020-12-21-how-we-built-the-github-globe/)
 - [Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/)
+- [Vulcanizer: a library for operating Elasticsearch](https://github.blog/2019-03-05-vulcanizer-a-library-for-operating-elasticsearch/)
