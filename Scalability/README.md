@@ -6,3 +6,4 @@
 - [http://highscalability.com/blog/2009/8/11/13-scalability-best-practices.html](http://highscalability.com/blog/2009/8/11/13-scalability-best-practices.html)
 - [https://www.keycdn.com/blog/scalability-testing](https://www.keycdn.com/blog/scalability-testing)
 - [Node.js App with Auto-scalling](https://node.university/blog/10954/aws-autoscaling)
+- [Why Are Facebook, Digg, And Twitter So Hard To Scale?](http://highscalability.com/blog/2009/10/13/why-are-facebook-digg-and-twitter-so-hard-to-scale.html)
