@@ -7,3 +7,4 @@
 * [The Architecture that Helps Stripe Move Faster](https://www.infoq.com/presentations/stripe-api-pci/)
 * [Payment Checkout : Example](https://docs.paymentwall.com/integration/checkout-home)
 * [Payment Checkout : Implementation (React + Stripe)](https://blog.logrocket.com/building-payments-system-react-stripe/)
+* [Stripe : Canonical Log Lines](https://stripe.com/blog/canonical-log-lines)
