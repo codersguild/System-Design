@@ -21,3 +21,7 @@
   - [https://medium.com/@balrajasubbiah/lamport-clocks-and-vector-clocks-b713db1890d7](https://medium.com/@balrajasubbiah/lamport-clocks-and-vector-clocks-b713db1890d7)
 - Kafka as a Distributed Sytem :
   - [https://www.infoq.com/presentations/kafka-controller-zookeeper/](https://www.infoq.com/presentations/kafka-controller-zookeeper/)
+
+## References
+
+- [Apache Flink](https://www.youtube.com/watch?v=Z4Gx7SP1E14)
