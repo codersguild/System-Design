@@ -9,3 +9,4 @@
 * [Real-Time Performance Analysis for Publish/Subscribe Systems](http://dsc.soic.indiana.edu/publications/Realtime%20PubSub_Sangyoon.pdf)
 * [In-House Pub-Sub using Node.js & Redis.io](https://www.smashingmagazine.com/2018/06/pub-sub-service-in-house-node-js-redis/)
 * [Pub/Sub Examples: 5 Use Cases to Understand the Pattern and its Benefits](https://ably.com/blog/pub-sub-pattern-examples)
+* [ZeroMQ Python : Tornado Event Loop](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/multisocket/tornadoeventloop.html)
