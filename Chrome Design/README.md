@@ -10,3 +10,4 @@ How is the chrome web browser working?
 - [Event Loop & Async JS : Intro](https://www.youtube.com/watch?v=8zKuNo4ay8E)
 - [Some more Tech Stuff on Chrome](https://www.chromium.org/developers/design-documents)
 - [Chrome UI Source](https://source.chromium.org/chromium#chromium/src/ui/views/)
+- [Multi-Process Architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture)
