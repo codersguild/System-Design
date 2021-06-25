@@ -2,6 +2,10 @@
 
 * [Netflix OSS](https://github.com/Netflix)
 
+* [Netflix System Design Part-1](https://dev.to/gbengelebs/netflix-system-design-how-netflix-onboards-new-content-2dlb)
+
+* [Netflix System Design Part-2](https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3)
+
 * [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 
 * [Lessons for Architectural Design](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
@@ -33,5 +37,3 @@
 * [Byte Down: Making Netflix’s Data Infrastructure Cost-Effective](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032)
 
 * [Comparision : Amazon Prime Video Delivery](https://www.youtube.com/watch?v=2YAz20284FI)
-
-* [Netflix System Design New](https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3)
