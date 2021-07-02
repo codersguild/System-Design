@@ -1,4 +1,4 @@
-## Blockhain, Crypto & Tokenization
+## Blockchain, Crypto & Tokenization
 
 - [Cryptocurrency Price Prediction Using Deep Learning](https://towardsdatascience.com/cryptocurrency-price-prediction-using-deep-learning-70cfca50dd3a)
 - [Cryptocurrency Prediction with LSTM](https://towardsdatascience.com/cryptocurrency-prediction-with-lstm-4cc369c43d1b)
