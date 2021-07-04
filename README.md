@@ -8,7 +8,7 @@ Modified from [Zach](https://github.com/checkcheckzz) system design repository. 
 
 ## Acknowledgements
 
-I didnot write the `articles` myself. I love exapnding my understanding of `system design` complexities and thus end up reading alot of books, research papers and articles that enhance my knowledge. I take the opportunity to everyone who found this repository useful. I mention a special thanks to all the authours and developers who write the articles that I have aggregated in this repository. Again, a big `Thanks !`. 
+I didnot write the `articles` myself. I love exapnding my understanding of `system design` complexities and thus end up reading alot of books, research papers and articles that enhance my knowledge. I take the opportunity to thank everyone who found this repository useful. I mention a special thanks to all the authours and developers who write the articles that I have aggregated in this repository. Again, a big `Thanks !`. 
 
 ## More Content Comming !
 
