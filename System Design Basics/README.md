@@ -15,3 +15,4 @@
 * [Architecting Backend For A Social Product](http://highscalability.com/blog/2015/7/22/architecting-backend-for-a-social-product.html)
 * [http://highscalability.com/plentyoffish-architecture](http://highscalability.com/plentyoffish-architecture)
 * [Trouble with Timestamps](https://aphyr.com/posts/299-the-trouble-with-timestamps)
+* [All Things Clock, Time and Order in Distributed Systems: Logical Clock vs Google True Time](https://medium.com/geekculture/all-things-clock-time-and-order-in-distributed-systems-logical-clock-vs-google-true-time-dba552f2d842)
