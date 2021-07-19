@@ -1,5 +1,6 @@
 # System-Design
 
+* [Microservice Architecture @Uber](https://eng.uber.com/microservice-architecture/)
 * [Clean Software Architecture](https://herbertograca.com/tag/software-architecture/)
 * [Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
 * [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
