@@ -10,3 +10,5 @@
 * [In-House Pub-Sub using Node.js & Redis.io](https://www.smashingmagazine.com/2018/06/pub-sub-service-in-house-node-js-redis/)
 * [Pub/Sub Examples: 5 Use Cases to Understand the Pattern and its Benefits](https://ably.com/blog/pub-sub-pattern-examples)
 * [ZeroMQ Python : Tornado Event Loop](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/multisocket/tornadoeventloop.html)
+* [Building a Reactive Architecture Around Redis](https://blog.bitsrc.io/building-a-reactive-architecture-around-redis-bc53662b81c8)
+* [Consumer/Producer Kafka](https://iwpnd.pw/articles/2020-03/apache-kafka-fastapi-geostream)
