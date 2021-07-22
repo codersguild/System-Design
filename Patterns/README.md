@@ -15,6 +15,7 @@
 - [Patterns : Thinking About Microservices](https://www.infoq.com/articles/microservices-design-ideals/?itm_source=infoq&itm_medium=popular_widget&itm_campaign=popular_content_list&itm_content=)
 - [Observer Design Pattern](https://medium.com/better-programming/understanding-the-observer-design-pattern-f621b1d0b6c9)
 - [A quick look on scalable architectures](https://dzone.com/articles/scalable-system-design)
+- [What is a quorum?](https://martinfowler.com/articles/patterns-of-distributed-systems/quorum.html)
 
 ## Software Design Patterns : Videos 
 
