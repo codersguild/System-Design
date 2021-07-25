@@ -1,5 +1,6 @@
 # Eventual Consistency & CAP Theorem
 
+- [https://www.allthingsdistributed.com/2008/12/eventually_consistent.html](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 - [https://levelup.gitconnected.com/eventual-consistency-what-how-and-why-50c942472a0c](https://levelup.gitconnected.com/eventual-consistency-what-how-and-why-50c942472a0c)
 - [https://medium.com/swlh/go-microservice-with-clean-architecture-a-major-upgrade-34a4cedb0b06](https://medium.com/swlh/go-microservice-with-clean-architecture-a-major-upgrade-34a4cedb0b06)
 - [https://stackoverflow.com/questions/3414277/cqrs-eventual-consistencyhttps://stackoverflow.com/questions/3414277/cqrs-eventual-consistency](https://stackoverflow.com/questions/3414277/cqrs-eventual-consistencyhttps://stackoverflow.com/questions/3414277/cqrs-eventual-consistency)
