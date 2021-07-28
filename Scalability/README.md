@@ -10,3 +10,4 @@
 - [AWS : **Architecting for Reliable Scalability**](https://aws.amazon.com/blogs/architecture/architecting-for-reliable-scalability/)
 - [Paritioning Data Streams : **Article Highlight**](https://gojko.net/2008/03/03/two-data-streams-for-a-happy-website/)
 - [**Scalability!**: But at what **COST?**](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf)
+- [**The Future of Microservices?** More Abstractions](https://thenewstack.io/the-future-of-microservices-more-abstractions)
