@@ -9,3 +9,4 @@
 - https://cloud.google.com/appengine/docs/standard/nodejs/building-app/deploying-web-service
 - https://docs.oracle.com/cd/E19199-01/817-5759/dep_architect.html
 - https://www.algoexpert.io/systems/workspace/Design%20A%20Code-Deployment%20System
+- https://www.youtube.com/watch?v=uEVmD6n8Il0
