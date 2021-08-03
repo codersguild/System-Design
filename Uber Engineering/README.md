@@ -1,0 +1,10 @@
+# Uber Engineering Blog (Links)
+
+- [The Uber Engineering Tech Stack, Part I: The Foundation](https://eng.uber.com/tech-stack-part-one-foundation/)
+- [Uber’s Fulfillment Platform: Ground-up Re-architecture to Accelerate Uber’s Go/Get Strategy](https://eng.uber.com/fulfillment-platform-rearchitecture)
+- [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
+- [Customer Support Automation Platform at Uber](https://eng.uber.com/customer-automation-platform/)
+- [Operating Apache Pinot @ Uber Scale](https://eng.uber.com/operating-apache-pinot/)
+- [‘Orders Near You’ and User-Facing Analytics on Real-Time Geospatial Data](https://eng.uber.com/orders-near-you/)
+- [Elastic Distributed Training with XGBoost on Ray](https://eng.uber.com/elastic-xgboost-ray)
+- [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/postgres-to-mysql-migration/)
