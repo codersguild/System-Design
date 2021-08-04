@@ -50,6 +50,7 @@ engineering project.
 
 - [Requirements Engineering](https://medium.com/omarelgabrys-blog/requirements-engineering-introduction-part-1-6d49001526d3)
 - [How to manage Modern Software Projects ?](https://medium.com/@lizparody/waterfall-vs-agile-methodology-in-software-development-1e19ef168cf6)
+- [A Design Doc : Online Judge (https://www.youtube.com/watch?v=_eRTl_YxgUw)](https://docs.google.com/document/d/1MgoMz8McpZAmAq_hJfn1topocHqfmAhcbqq42zJEMsY/edit)
 
 **High-level architecture design**
 
@@ -327,6 +328,11 @@ Reference:
 **Design a cache system**    
 Reference:   
 * [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached)
+
+**Design LeetCode**
+- [Youtube Link-1 : Gaurav Sen](https://www.youtube.com/watch?v=eg0nlYcbLpo)
+- [Youtube Link-2](https://www.youtube.com/watch?v=cMH2aa0xNYQ)
+
 
 **Basic SRE**
 Reference:
