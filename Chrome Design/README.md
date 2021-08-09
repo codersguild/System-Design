@@ -10,4 +10,5 @@ How is the chrome web browser working?
 - [Event Loop & Async JS : Intro](https://www.youtube.com/watch?v=8zKuNo4ay8E)
 - [Some more Tech Stuff on Chrome](https://www.chromium.org/developers/design-documents)
 - [Chrome UI Source](https://source.chromium.org/chromium#chromium/src/ui/views/)
-- [Multi-Process Architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture)
+- [Chromium : Multi-Process Architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture)
+- [Security vulnerabilities in modern web browser architecture](https://www.researchgate.net/publication/224163004_Security_vulnerabilities_in_modern_web_browser_architecture)
