@@ -1,5 +1,6 @@
 # System-Design
 
+* [Designing Microservices the right way](https://www.youtube.com/watch?v=j6ow-UemzBc)
 * [Microservice Architecture @Uber](https://eng.uber.com/microservice-architecture/)
 * [Clean Software Architecture](https://herbertograca.com/tag/software-architecture/)
 * [Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
