@@ -20,3 +20,12 @@
 * [All Things Clock, Time and Order in Distributed Systems: Logical Clock vs Google True Time](https://medium.com/geekculture/all-things-clock-time-and-order-in-distributed-systems-logical-clock-vs-google-true-time-dba552f2d842)
 * [CD/CI for ML Models at Uber](https://eng.uber.com/continuous-integration-deployment-ml/)
 * [Redis as a Cache : But Why?](https://redislabs.com/wp-content/uploads/2016/03/15-Reasons-Caching-is-best-with-Redis-RedisLabs-1.pdf)
+
+### Software Design Patterns
+
+These are also necessary since they give a fair idea as to organize code that is used to build and maintain components. I have covered this in great length in other links and repos of mine.
+ 
+- [Best Book Ever : GoF](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/)
+- [4 Design Patterns You Should Know for Web Development](https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/)
+- [Traversy Media -- 5 Design Patterns Every Engineer Should Know](https://www.youtube.com/watch?v=FLmBqI3IKMA)
+- [Introduction to Creational Design](https://www.baeldung.com/creational-design-patterns)
