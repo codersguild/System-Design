@@ -222,6 +222,7 @@ The following papers/articles/slides can help you to understand the general desi
 * [Splunk Architecture](http://www.splunk.com/view/SP-CAAABF9)
 * [Good Parts of AWS](https://www.educative.io/courses/good-parts-of-aws?aid=5082902844932096)
 * [Azure DataCenter Architecture](https://youtu.be/69PrhWQorEM)
+* [Evolution Of Search Engines Architecture - Highscalability](http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html)
 
 ### [[⬆]](#toc) <a name='qs'>Hot Questions and Reference:</a>
 
