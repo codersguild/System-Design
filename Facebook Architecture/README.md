@@ -9,3 +9,4 @@
 - [How UI redesigns happens at Facebook?](https://engineering.fb.com/2020/05/08/web/facebook-redesign/)
 - [Running Border Gateway Protocol in large-scale data centers](https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/)
 - [Scale@Introduction Facebook](https://www.infoq.com/presentations/Scale-at-Facebook/)
+- [RAMP-TAO](https://engineering.fb.com/2021/08/18/core-data/ramp-tao/)
