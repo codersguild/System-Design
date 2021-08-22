@@ -122,6 +122,7 @@ Here are some articles about system design related topics.
 * [Quick : Observability and Microservices](https://www.infoq.com/news/2018/06/observability-microservices/)
 * [System Design Interviews](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
 * [Designing Microservices](https://www.youtube.com/watch?v=j6ow-UemzBc)
+* [Crack the System Design Interview - FreeCodeCamp](https://www.freecodecamp.org/news/how-to-system-design-dda63ed27e26/)
 * [Intro to Distributed Logging](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/)
 * [Usenix -- Gmail Overview](https://www.usenix.org/legacy/event/webapps10/tech/slides/deboor.pdf)
 * [Jeff Dean On Large-Scale Deep Learning At Google](http://highscalability.com/blog/2016/3/16/jeff-dean-on-large-scale-deep-learning-at-google.html)
