@@ -14,3 +14,10 @@ I am mentioning those with which I am familiar with (have atleast worked with th
 - Scripting: Jsonnet, Bash, Python, etc.
 - Networking: DNS, Routing, Firewalls, Load balancers, etc.
 - Databases: MongoDB or other NoSQL database, PostgreSQL, MySQL, Time Series Database
+
+## WIP/TBD Links
+
+Short description of tools and links. 
+
+- [Postman](https://www.youtube.com/watch?v=VywxIQ2ZXw4&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=4)
+- 
