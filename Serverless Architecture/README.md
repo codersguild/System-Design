@@ -9,3 +9,4 @@
 - [Example : Serverless App](https://www.infoq.com/news/2021/02/serverless-react-apps-aws-lambda/)
 - [Serverless Functions for Microservices?](https://www.infoq.com/articles/serverless-microservices-flexibility/)
 - [Implementation : Flask, Serverless, Lambda, ... AWS](https://www.serverless.com/blog/flask-python-rest-api-serverless-lambda-dynamodb)
+- [Databases in the Microservices World](https://www.youtube.com/watch?v=-9Veoch50Bg)
