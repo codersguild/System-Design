@@ -8,6 +8,7 @@
 - [Software Design Pattern is different from system design patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
 - [Saga Pattern : Microservices](https://microservices.io/patterns/data/saga.html)
 - [CQRS Pattern : Microservices](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+- [Pitfalls and Patterns in Microservice Dependency Management](https://www.infoq.com/articles/pitfalls-patterns-microservice-dependency-management/)
 
 ## More Articles 
 
