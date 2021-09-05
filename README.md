@@ -246,6 +246,7 @@ Reference:
 **Design a key-value database**  
 Reference:   
 * [Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis)
+* [Introduction to Memcached](https://medium.com/swlh/what-is-memcached-d1498623db3b)
 
 **Design the Facebook news feed function**   
 Reference:   
