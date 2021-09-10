@@ -5,3 +5,5 @@
 - [Algorithmic Trading Strategies](https://algorithmictrading.net/project/robust-algorithmic-trading-strategies/)
 - [Agent-Human Interactions in the Continuous Double Auction](http://spider.sci.brooklyn.cuny.edu/~parsons/courses/840-spring-2005/notes/das.pdf)
 - [Deep Reinforcement Learning in Quantitative Algorithmic Trading: A Review](https://arxiv.org/abs/2106.00123)
+- [Algorithmic Trading : Papers with Code](https://paperswithcode.com/task/algorithmic-trading)
+- [A3C Trading Strategy](https://github.com/evgps/a3c_trading)
