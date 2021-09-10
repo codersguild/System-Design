@@ -12,3 +12,4 @@ How is the chrome web browser working?
 - [Chrome UI Source](https://source.chromium.org/chromium#chromium/src/ui/views/)
 - [Chromium : Multi-Process Architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture)
 - [Security vulnerabilities in modern web browser architecture](https://www.researchgate.net/publication/224163004_Security_vulnerabilities_in_modern_web_browser_architecture)
+- [Improve Largest Contentful Paint (LCP) on Your Website With Ease](https://css-tricks.com/improve-largest-contentful-paint-lcp-on-your-website-with-ease/)
