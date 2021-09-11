@@ -1,6 +1,6 @@
-## Google Chrome 
+## Google Chrome/ Browsers / JavaScript
 
-How is the chrome web browser working? 
+How do browsers works? (with some JS topics)
 
 - [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 - [Inside look at modern web browser (part 2)](https://developers.google.com/web/updates/2018/09/inside-browser-part2)
@@ -13,3 +13,4 @@ How is the chrome web browser working?
 - [Chromium : Multi-Process Architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture)
 - [Security vulnerabilities in modern web browser architecture](https://www.researchgate.net/publication/224163004_Security_vulnerabilities_in_modern_web_browser_architecture)
 - [Improve Largest Contentful Paint (LCP) on Your Website With Ease](https://css-tricks.com/improve-largest-contentful-paint-lcp-on-your-website-with-ease/)
+- [How JavaScript Works🔥 🤖 [Visually Explained]](https://dev.to/narottam04/how-javascript-works-visually-explained-269j)
