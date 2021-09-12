@@ -20,6 +20,7 @@
 - [A quick look on scalable architectures](https://dzone.com/articles/scalable-system-design)
 - [The Future of Microservices? More Abstractions](https://thenewstack.io/the-future-of-microservices-more-abstractions/)
 - [What is a quorum?](https://martinfowler.com/articles/patterns-of-distributed-systems/quorum.html)
+- [[BUILD] BFF Pattern with Go Microservices using REST & gRPC.](https://itnext.io/bff-pattern-with-go-microservices-using-rest-grpc-87d269bc2434)
 
 ## Software Design Patterns : Videos 
 
