@@ -12,3 +12,4 @@
 - https://www.youtube.com/watch?v=uEVmD6n8Il0
 - https://softwareengineeringdaily.com/2018/01/13/the-gravity-of-kubernetes/
 - https://thenewstack.io/what-you-can-learn-from-the-aws-tokyo-outage/
+- https://analyticsindiamag.com/a-beginners-guide-to-mlops/
