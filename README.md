@@ -108,6 +108,7 @@ Here are some articles about system design related topics.
 * [Distributed Consistent Hashing](https://medium.com/ably-realtime/how-to-implement-consistent-hashing-efficiently-fe038d59fff2)
 * [System Design White Board](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 * [Bloom Filter : A Probabilistic Data Structure](https://medium.com/system-design-blog/bloom-filter-a-probabilistic-data-structure-12e4e5cf0638)
+* [Basics :  ML Architecture](https://www.bmc.com/blogs/machine-learning-architecture)
 * [Security By Design](https://blog.threatpress.com/security-design-principles-owasp/)
 * [How Netlify’s deploying and routing infrastructure works](https://medium.com/netlify/how-netlifys-deploying-and-routing-infrastructure-works-c90adbde3b8d)
 * [Basic Overview of Blockchain](https://www.edureka.co/blog/blockchain-architecture/)
