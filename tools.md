@@ -20,4 +20,10 @@ I am mentioning those with which I am familiar with (have atleast worked with th
 Short description of tools and links. 
 
 - [Postman](https://www.youtube.com/watch?v=VywxIQ2ZXw4&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=4)
-- 
+- [Kong](https://konghq.com/)
+- [Heroku](https://www.heroku.com/products)
+- [Netlify](https://www.netlify.com/products/)
+- [Terraform](https://www.terraform.io/)
+- [Superbase](https://supabase.io/docs)
+- [Insomnia](https://insomnia.rest/)
+- [Docker](https://docs.docker.com/)
