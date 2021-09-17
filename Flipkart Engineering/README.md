@@ -11,3 +11,5 @@
 - [AESOP change propagation system](https://tech.flipkart.com/aesop-change-propagation-system-a4c0f2a0d242)
 - [Making deliveries faster — The Flipkart Cache Cluster](https://tech.flipkart.com/making-deliveries-faster-the-flipkart-cache-cluster-953659c06a3a)
 - [Palette Image Generate — Technology to the rescue](https://tech.flipkart.com/palette-image-generation-technology-to-the-rescue-22000aac34b3)
+- [Optimizing Flipkart’s Serviceability Data from 300 GB to 150 MB in-memory](https://tech.flipkart.com/remodelling-flipkarts-serviceability-data-an-optimization-journey-from-300-gb-to-150-mb-in-memory-5c7e9c38bde)
+- [Running a multi-region Zookeeper](https://tech.flipkart.com/running-a-multi-region-zookeeper-58e52cec44ff)
