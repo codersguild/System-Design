@@ -16,3 +16,4 @@
 - https://www.youtube.com/watch?v=j7VZsCCnptM
 - https://www.youtube.com/watch?v=X3F3El_yvFg
 - https://www.youtube.com/watch?v=fqMOX6JJhGo
+- https://www.nginx.com/resources/library/microservices-up-and-running/?utm_medium=paid-display&utm_source=infoq&utm_campaign=ww-nx_pgkub&utm_content=eb-sponsoredupdate
