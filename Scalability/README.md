@@ -12,3 +12,4 @@
 - [**Scalability!**: But at what **COST?**](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf)
 - [**The Future of Microservices?** More Abstractions](https://thenewstack.io/the-future-of-microservices-more-abstractions)
 - [Caching Works!](https://www.youtube.com/watch?v=ASP7O5fDpSg)
+- [https://www.linkedin.com/pulse/8-steps-build-scalable-distributed-system-design-web-yamit-mehta](https://www.linkedin.com/pulse/8-steps-build-scalable-distributed-system-design-web-yamit-mehta)
