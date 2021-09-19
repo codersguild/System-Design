@@ -143,6 +143,7 @@ a good collection of material about [distributed systems](http://dancres.github.
 * [Engineering Dependability And Fault Tolerance In A Distributed System - @@Ably](http://highscalability.com/blog/2021/2/19/engineering-dependability-and-fault-tolerance-in-a-distribut.html)
 * [Microservices and the Economics of Small Things](https://www.infoq.com/articles/microservices-economics-small-things/?topicPageSponsorship=62547418-6220-4c74-9be8-b11f14b85016&itm_source=articles_about_scalability&itm_medium=link&itm_campaign=scalability)
 * [Service Mesh Ultimate Guide - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/?itm_campaign=rightbar_v2&itm_source=infoq&itm_medium=articles_link&itm_content=link_text)
+* [Adoption of Cloud Native Architecture, Part 3: Service Orchestration and Service Mesh](https://www.infoq.com/articles/cloud-native-architecture-adoption-part3/?itm_campaign=rightbar_v2&itm_source=infoq&itm_medium=articles_link&itm_content=link_text)
 
 ### [[⬆]](#toc) <a name='blog'>Company Engineering Blogs:</a>
 
