@@ -24,7 +24,7 @@
 * [Redis as a Cache : But Why?](https://redislabs.com/wp-content/uploads/2016/03/15-Reasons-Caching-is-best-with-Redis-RedisLabs-1.pdf)
 * [7 Microservices Best Practices for Developers](https://dzone.com/articles/7-microservices-best-practices-for-developers)
 
-### Software Design Patterns
+### Software & API Design Bytes : 
 
 These are also necessary since they give a fair idea as to organize code that is used to build and maintain components. I have covered this in great length in other links and repos of mine.
  
@@ -32,3 +32,5 @@ These are also necessary since they give a fair idea as to organize code that is
 - [4 Design Patterns You Should Know for Web Development](https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/)
 - [Traversy Media -- 5 Design Patterns Every Engineer Should Know](https://www.youtube.com/watch?v=FLmBqI3IKMA)
 - [Introduction to Creational Design](https://www.baeldung.com/creational-design-patterns)
+- [API Design-First Using the "Align-Define-Design-Refine" Process](https://www.infoq.com/news/2021/09/api-design-first-addr/?itm_source=infoq&itm_campaign=footer_links&itm_medium=footer_links_category_page_by_content_type)
+- [Adopting an API Design-First Approach](https://kalele.io/adopting-an-api-design-first-approach/)
