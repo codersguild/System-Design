@@ -14,8 +14,11 @@ I didnot write the `articles` myself. I love exapnding my understanding of `syst
 
 We are working to create good content to fulfil the needs of system-design noobs. Please feel free to share any resource or material at ```lahiri.devs@gmail.com```.
 
-## All-Time Favourites from `Highscalability.com`
+## SWEBOK
+- http://swebokwiki.org
+- https://cs.fit.edu/~kgallagher/Schtick/Serious/SWEBOKv3.pdf
 
+## All-Time Favourites from `Highscalability.com`
 * [http://highscalability.com/all-time-favorites/](http://highscalability.com/all-time-favorites/)
 
 ## How to prepare system design questions?
