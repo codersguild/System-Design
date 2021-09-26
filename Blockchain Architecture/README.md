@@ -10,3 +10,5 @@
 - [https://blog.coinbase.com/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-b1ba6c3f2c11](https://blog.coinbase.com/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-b1ba6c3f2c11)
 - [Steamit Blockchain Intro-Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9261418)
 - [Blockchain Solutions & COVID-19](https://www.blockchain-council.org/blockchain/blockchain-based-app-to-make-travel-during-the-pandemic-easier/)
+- [the-architecture-of-a-web-3-0-application](https://preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
+- [BEPRO : Network & Testnet Release](https://bepronetwork.medium.com/network-testnet-release-13cbfd1fe50d)
