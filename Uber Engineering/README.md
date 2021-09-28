@@ -2,6 +2,7 @@
 
 - [The Uber Engineering Tech Stack, Part I: The Foundation](https://eng.uber.com/tech-stack-part-one-foundation/)
 - [Uber’s Fulfillment Platform: Ground-up Re-architecture to Accelerate Uber’s Go/Get Strategy](https://eng.uber.com/fulfillment-platform-rearchitecture)
+- [Bringing what’s new from teams across Uber to life](https://www.uber.com/en-IN/blog/bringing-whats-new-from-teams-across-uber-to-life/)
 - [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
 - [Customer Support Automation Platform at Uber](https://eng.uber.com/customer-automation-platform/)
 - [Operating Apache Pinot @ Uber Scale](https://eng.uber.com/operating-apache-pinot/)
