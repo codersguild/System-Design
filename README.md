@@ -119,6 +119,7 @@ Here are some articles about system design related topics.
 * [ML Reference Architecture](https://freeandopenmachinelearning.readthedocs.io/en/latest/architecture.html)
 * [Reducing Databse Costs](https://scalegrid.io/blog/reducing-your-database-hosting-costs-digitalocean-vs-aws-vs-azure/)
 * [Patterns : Thinking About Microservices](https://www.infoq.com/articles/microservices-design-ideals/?itm_source=infoq&itm_medium=popular_widget&itm_campaign=popular_content_list&itm_content=)
+* [The Reactive Monolith - How to Move from CRUD to Event Sourcing](https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing)
 * [Terraform Software](https://www.terraform.io/)
 * [FreeCodeCamp : DevOps Course](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
 * [Some Linux Know How is necessary](https://training.linuxfoundation.org/training/linux-kernel-internals-and-development/)
