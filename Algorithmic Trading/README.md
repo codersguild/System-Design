@@ -7,3 +7,6 @@
 - [Deep Reinforcement Learning in Quantitative Algorithmic Trading: A Review](https://arxiv.org/abs/2106.00123)
 - [Algorithmic Trading : Papers with Code](https://paperswithcode.com/task/algorithmic-trading)
 - [A3C Trading Strategy](https://github.com/evgps/a3c_trading)
+- [Deep Reinforcement Learning for Automated Stock Trading](https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02)
+- [How To Automate The Stock Market Using FinRL (Deep Reinforcement Learning Library)?](https://analyticsindiamag.com/stock-market-prediction-using-finrl/)
+- [Deep Reinforcement Learning for Algorithmic Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812473)
