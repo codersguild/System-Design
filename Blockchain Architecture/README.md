@@ -12,3 +12,6 @@
 - [Blockchain Solutions & COVID-19](https://www.blockchain-council.org/blockchain/blockchain-based-app-to-make-travel-during-the-pandemic-easier/)
 - [the-architecture-of-a-web-3-0-application](https://preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
 - [BEPRO : Network & Testnet Release](https://bepronetwork.medium.com/network-testnet-release-13cbfd1fe50d)
+- [Byzantine General's Problem](https://river.com/learn/what-is-the-byzantine-generals-problem/)
+- [RAFT Protocol](https://raft.github.io/)
+- [RAFT Explained – Part 1/3: Introduction to the Consensus Problem](https://blog.container-solutions.com/raft-explained-part-1-the-consenus-problem)
