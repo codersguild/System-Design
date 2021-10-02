@@ -9,3 +9,4 @@
 - [Visual Globe :  GitHub Globe (UX/UI)](https://github.blog/2020-12-21-how-we-built-the-github-globe/)
 - [Why Write ADRs](https://github.blog/2020-08-13-why-write-adrs/)
 - [Vulcanizer: a library for operating Elasticsearch](https://github.blog/2019-03-05-vulcanizer-a-library-for-operating-elasticsearch/)
+- [How GitHub Partitioned Its Relational Database to Improve Reliability at Scale](https://www.infoq.com/news/2021/09/GitHub-database-partition/)
