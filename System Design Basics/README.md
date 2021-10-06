@@ -34,3 +34,4 @@ These are also necessary since they give a fair idea as to organize code that is
 - [Introduction to Creational Design](https://www.baeldung.com/creational-design-patterns)
 - [API Design-First Using the "Align-Define-Design-Refine" Process](https://www.infoq.com/news/2021/09/api-design-first-addr/?itm_source=infoq&itm_campaign=footer_links&itm_medium=footer_links_category_page_by_content_type)
 - [Adopting an API Design-First Approach](https://kalele.io/adopting-an-api-design-first-approach/)
+- [Components, Patterns and Sh\*t That’s Hard to Deal with](https://www.infoq.com/presentations/conde-nast-components-patterns/?topicPageSponsorship=02b1f4ac-b8f1-443d-9804-c3ee69fd77a0&itm_source=presentations_about_Design&itm_medium=link&itm_campaign=Design)
