@@ -8,3 +8,4 @@
 - [InShort : Discord's Backend Architecture](https://www.youtube.com/watch?v=S3tLp_eKjbk)
 - [Discord Blogs](https://blog.discord.com/how-discord-maintains-performance-while-adding-features-28ddaf044333)
 - [Why Discord is Sticking with React Native](https://blog.discord.com/why-discord-is-sticking-with-react-native-ccc34be0d427)
+- [How Discord Maintains Performance While Adding Features](https://blog.discord.com/how-discord-maintains-performance-while-adding-features-28ddaf044333)
