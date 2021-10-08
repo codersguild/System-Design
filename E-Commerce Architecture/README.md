@@ -7,3 +7,4 @@
 - [Design eCommerce Website (Part I)](http://blog.gainlo.co/index.php/2016/08/22/design-ecommerce-website-part/)
 - [Design eCommerce Website (Part II)](http://blog.gainlo.co/index.php/2016/08/28/design-ecommerce-website-part-ii/)
 - [Design and Implementation of E-Commerce Site for Online Shopping](https://opus.govst.edu/cgi/viewcontent.cgi?article=1079&context=capstones)
+- [Amazon Science (ML) : Data on correlated products and sellers helps improve demand forecasting](https://www.amazon.science/blog/data-on-correlated-products-and-sellers-helps-improve-demand-forecasting)
