@@ -13,3 +13,5 @@
 - [Building Reliable Reprocessing and Dead Letter Queues with Apache Kafka](https://eng.uber.com/reliable-reprocessing/)
 - [How Uber is Leveraging Apache Kafka For More Than 300 Micro Services](https://analyticsindiamag.com/how-uber-is-leveraging-apache-kafka-for-more-than-300-micro-services/)
 - [Jellyfish: Cost-Effective Data Tiering for Uber’s Largest Storage System](https://eng.uber.com/jellyfish-cost-effective-data-tiering/)
+- [YAML Generator for Funnel YAML Files: Streamlining the Mobile Data Workflow Process](https://eng.uber.com/streamlining-mobile-data-workflow-process/)
+- [Real-Time Exactly-Once Ad Event Processing with Apache Flink, Kafka, and Pinot](https://eng.uber.com/real-time-exactly-once-ad-event-processing/)
