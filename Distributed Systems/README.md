@@ -11,6 +11,13 @@
 - Distributed System Un-mystified 
   - [Google : Introduction to Distributed System Design](https://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html#Design) 
 
+## Streaming in Distributed Systems : 
+
+- [Streaming Concepts & Introduction to Flink Series - What is Stream Processing & Apache Flink](https://www.youtube.com/watch?v=ZU1r7uEAO7o)
+- [SF 2017: Monal Daxini - Stream Processing with Flink at Netflix](https://www.youtube.com/watch?v=sPB8w-YXX1s)
+- ["Apache Kafka and the Next 700 Stream Processing Systems" by Jay Kreps](https://www.youtube.com/watch?v=9RMOc0SwRro)
+- [Flink Forward : Keynote | Stream Processing at LinkedIn: Then and Now - Renu Tewari](https://www.youtube.com/watch?v=ukrEShAOJtI)
+
 ## Examples & More Links : 
 
 - How Google Works? 
