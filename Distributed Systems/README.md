@@ -25,3 +25,4 @@
 ## References
 
 - [Apache Flink](https://www.youtube.com/watch?v=Z4Gx7SP1E14)
+- [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.in/Designing-Distributed-Systems-Brendan-Burns/dp/1491983647)
