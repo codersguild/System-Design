@@ -9,6 +9,14 @@
 - [Saga Pattern : Microservices](https://microservices.io/patterns/data/saga.html)
 - [CQRS Pattern : Microservices](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs)
 - [Pitfalls and Patterns in Microservice Dependency Management](https://www.infoq.com/articles/pitfalls-patterns-microservice-dependency-management/)
+- [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+- [High-Water Mark](https://martinfowler.com/articles/patterns-of-distributed-systems/high-watermark.html)
+- [Idempotent Receiver](https://martinfowler.com/articles/patterns-of-distributed-systems/idempotent-receiver.html)
+- [Low-Water Mark](https://martinfowler.com/articles/patterns-of-distributed-systems/low-watermark.html)
+- [Request Pipeline](https://martinfowler.com/articles/patterns-of-distributed-systems/request-pipeline.html)
+- [Version Vector](https://martinfowler.com/articles/patterns-of-distributed-systems/version-vector.html)
+- [Singular Update Queue](https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html)
+- [Write-Ahead Log](https://martinfowler.com/articles/patterns-of-distributed-systems/wal.html)
 
 ## More Articles 
 
