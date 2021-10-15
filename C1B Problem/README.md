@@ -9,6 +9,7 @@ E-poll is an answer to the ```C1M``` definitely, `C10M`? Eh! But does it solve `
 * [C1M : Troll or Real](https://news.ycombinator.com/item?id=2288301)
 * [C10M : How & What](http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html)
 * [PF_RING C10M Blog](http://c10m.robertgraham.com/)
+* [Describing C10M](https://github.com/espoal/C10M)
 * [Scalling the Cloud](http://highscalability.com/blog/2010/10/21/machine-vm-cloud-api-rewriting-the-cloud-from-scratch.html)
 * [The Secret To 10 Million Concurrent Connections -The Kernel Is The Problem, Not The Solution](http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html)
 
