@@ -13,3 +13,4 @@
 * [Building a Reactive Architecture Around Redis](https://blog.bitsrc.io/building-a-reactive-architecture-around-redis-bc53662b81c8)
 * [Consumer/Producer Kafka](https://iwpnd.pw/articles/2020-03/apache-kafka-fastapi-geostream)
 * [Pub-Sub pattern: a brief explanation](https://dev.to/jucian0/pub-sub-pattern-a-brief-explanation-21ed)
+* [Pub-Sub using Kafka](https://solace.com/blog/solace-pubsub-vs-kafka-comparison-publish-subscribe-messaging-pattern/)
