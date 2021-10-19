@@ -5,6 +5,7 @@
 - https://travis-ci.org/
 - https://circleci.com/docs/2.0/concepts/
 - https://circleci.com/docs/2.0/deployment-integrations/#using-orbs-to-simplify-deployment
+- [TypeForm's Production : Deep Purple](https://medium.com/typeforms-engineering-blog/typeforms-production-smoke-testing-building-our-tool-deep-purple-8d3ff85d3438)
 - https://www.freecodecamp.org/news/what-i-learned-during-production-deployment-fe037a6ee4db
 - https://cloud.google.com/appengine/docs/standard/nodejs/building-app/deploying-web-service
 - https://docs.oracle.com/cd/E19199-01/817-5759/dep_architect.html
