@@ -30,7 +30,7 @@
 - [What is a quorum?](https://martinfowler.com/articles/patterns-of-distributed-systems/quorum.html)
 - [[BUILD] BFF Pattern with Go Microservices using REST & gRPC.](https://itnext.io/bff-pattern-with-go-microservices-using-rest-grpc-87d269bc2434)
 
-## Software Design Patterns : Videos 
+## Design Patterns : Videos 
 
 ##### ```S.O.L.I.D Principles```
 
