@@ -10,3 +10,4 @@
 - [Deep Reinforcement Learning for Automated Stock Trading](https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02)
 - [How To Automate The Stock Market Using FinRL (Deep Reinforcement Learning Library)?](https://analyticsindiamag.com/stock-market-prediction-using-finrl/)
 - [Deep Reinforcement Learning for Algorithmic Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812473)
+- [*Low Latency* High Frequency Trading](https://www.arista.com/en/solutions/low-latency-high-frequency-financial-trading-networks)
