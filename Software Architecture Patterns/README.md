@@ -1,6 +1,7 @@
 ## System Design Patterns (What and What not?) 
 
 - [Modern-Day Architecture Design Patterns for Software Professionals](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
+- [Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
 - [Software Design Pattern is different from system design patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
 - [Saga Pattern : Microservices](https://microservices.io/patterns/data/saga.html)
 - [CQRS Pattern : Microservices](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs)
@@ -13,6 +14,7 @@
 - [Version Vector](https://martinfowler.com/articles/patterns-of-distributed-systems/version-vector.html)
 - [Singular Update Queue](https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html)
 - [Write-Ahead Log](https://martinfowler.com/articles/patterns-of-distributed-systems/wal.html)
+- [Event Sourcing](https://www.youtube.com/watch?v=rUDN40rdly8)
 
 ## More Articles 
 
