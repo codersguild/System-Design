@@ -15,3 +15,6 @@
 - [Byzantine General's Problem](https://river.com/learn/what-is-the-byzantine-generals-problem/)
 - [RAFT Protocol](https://raft.github.io/)
 - [RAFT Explained – Part 1/3: Introduction to the Consensus Problem](https://blog.container-solutions.com/raft-explained-part-1-the-consenus-problem)
+- [**Eth : EVM**](https://ethereum.org/en/developers/docs/evm/)
+- [**Mining | ETH**](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/mining/)
+- [**ETH | Build**](https://eth.build/)
