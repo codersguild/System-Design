@@ -9,4 +9,5 @@
 * [Payment Checkout : Implementation (React + Stripe)](https://blog.logrocket.com/building-payments-system-react-stripe/)
 * [Stripe : Canonical Log Lines](https://stripe.com/blog/canonical-log-lines)
 * [The Life Cycle of an Online Card Payment](https://razorpay.com/blog/how-online-card-payments-work/)
-* [HOW TO DEVELOP A PAYMENT GATEWAY](https://trimplement.com/blog/2020/06/payment-gateway-development-marketplaces/)
+* [**HOW TO DEVELOP A PAYMENT GATEWAY**](https://trimplement.com/blog/2020/06/payment-gateway-development-marketplaces/)
+- [Make Money from your API Tutorial](https://www.youtube.com/watch?v=MbqSMgMAzxU)
