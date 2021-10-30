@@ -10,3 +10,4 @@
 - [Anti Patterns in Software Development](https://sourcemaking.com/antipatterns/software-development-antipatterns)
 - [Refactoring Guru](https://refactoring.guru/design-patterns)
 - [SOLID in CPP](https://corecppil.github.io/Meetups/2020-05-26_CoreCpp_Worldwide!/The_SOLID_Principles.pdf)
+- [System design practice: designing a payment system](https://www.linkedin.com/pulse/system-design-practice-designing-payment-avik-das)
