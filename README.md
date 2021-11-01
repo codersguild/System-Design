@@ -14,6 +14,8 @@ I didnot write the `articles` myself. I love exapnding my understanding of `syst
 
 We are working to create good content to fulfil the needs of system-design noobs. Please feel free to share any resource or material at ```lahiri.devs@gmail.com```.
 
+- [How Slack Works](https://www.youtube.com/watch?v=WE9c9AZe-DY)
+
 ## SWEBOK
 - http://swebokwiki.org
 - https://cs.fit.edu/~kgallagher/Schtick/Serious/SWEBOKv3.pdf
