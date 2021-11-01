@@ -8,4 +8,5 @@
 * [Making instagram.com faster: Code size and execution optimizations (Part 4)](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8)
 * [Instagram Data Saver Mode](https://instagram-engineering.com/instagram-data-saver-mode-ffb01fd5a6bd)
 * [Five things I learned about working on content quality at Instagram](https://instagram-engineering.com/five-things-i-learned-about-working-on-content-quality-at-instagram-5031b1342bea)
-- [Thundering Herds & Promises](https://instagram-engineering.com/thundering-herds-promises-82191c8af57d)
+* [Thundering Herds & Promises](https://instagram-engineering.com/thundering-herds-promises-82191c8af57d)
+* [**Messaging at Scale at Instagram (Old)**](https://www.youtube.com/watch?v=E708csv4XgY)
