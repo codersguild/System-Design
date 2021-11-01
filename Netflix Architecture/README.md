@@ -21,4 +21,3 @@
 * [Comparision : Amazon Prime Video Delivery](https://www.youtube.com/watch?v=2YAz20284FI)
 * [Netflix Builds a Reliable, Scalable Platform with Event Sourcing, MQTT and Alpakka-Kafka](https://www.infoq.com/news/2021/08/netflix-device-management/)
 * [Scaling Push Messaging for Millions of Devices @Netflix](https://www.youtube.com/watch?v=6w6E_B55p0E)
-* [Scaling Slack - The Good, the Unexpected, and the Road Ahead](https://www.youtube.com/watch?v=_M-oHxknfnI)
