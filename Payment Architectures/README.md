@@ -11,3 +11,4 @@
 * [The Life Cycle of an Online Card Payment](https://razorpay.com/blog/how-online-card-payments-work/)
 * [**HOW TO DEVELOP A PAYMENT GATEWAY**](https://trimplement.com/blog/2020/06/payment-gateway-development-marketplaces/)
 * [Make Money from your API Tutorial](https://www.youtube.com/watch?v=MbqSMgMAzxU)
+* [**Architecting a Modern Financial Institution**](https://www.youtube.com/watch?v=VYuToviSx5Q)
