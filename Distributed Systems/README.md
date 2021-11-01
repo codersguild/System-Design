@@ -10,6 +10,7 @@
   - [An Introduction to Distributed Systems](http://webdam.inria.fr/Jorge/html/wdmch15.html)
 - Distributed System Un-mystified 
   - [Google : Introduction to Distributed System Design](https://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html#Design) 
+- [The Anatomy of a Distributed System](https://www.youtube.com/watch?v=1TIzPL4878Q)
 
 ## Streaming in Distributed Systems : 
 
