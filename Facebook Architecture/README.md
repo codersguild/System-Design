@@ -12,3 +12,4 @@
 - [RAMP-TAO](https://engineering.fb.com/2021/08/18/core-data/ramp-tao/)
 - [ZippyDB: The Architecture of Facebook’s Strongly Consistent Key-Value Store](https://www.infoq.com/news/2021/09/facebook-zippydb/)
 - [Learn from Outrages](https://engineering.fb.com/2021/10/04/networking-traffic/outage/)
+- [Scaling Facebook Live Videos to a Billion Users](https://www.youtube.com/watch?v=IO4teCbHvZw)
