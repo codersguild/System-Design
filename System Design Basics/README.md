@@ -23,6 +23,7 @@
 * [CD/CI for ML Models at Uber](https://eng.uber.com/continuous-integration-deployment-ml/)
 * [Redis as a Cache : But Why?](https://redislabs.com/wp-content/uploads/2016/03/15-Reasons-Caching-is-best-with-Redis-RedisLabs-1.pdf)
 * [7 Microservices Best Practices for Developers](https://dzone.com/articles/7-microservices-best-practices-for-developers)
+* [Pitfalls and Patterns in Microservice Dependency Management](https://www.youtube.com/watch?v=kjbfvP65Jn0)
 
 ### Software & API Design Bytes : 
 
