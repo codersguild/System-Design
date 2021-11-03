@@ -11,3 +11,4 @@
 - [Refactoring Guru](https://refactoring.guru/design-patterns)
 - [SOLID in CPP](https://corecppil.github.io/Meetups/2020-05-26_CoreCpp_Worldwide!/The_SOLID_Principles.pdf)
 - [System design practice: designing a payment system](https://www.linkedin.com/pulse/system-design-practice-designing-payment-avik-das)
+- [Future of Data Engineering](https://www.youtube.com/watch?v=ZZr9oE4Oa5U)
