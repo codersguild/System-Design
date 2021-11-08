@@ -12,3 +12,4 @@
 * [**HOW TO DEVELOP A PAYMENT GATEWAY**](https://trimplement.com/blog/2020/06/payment-gateway-development-marketplaces/)
 * [Make Money from your API Tutorial](https://www.youtube.com/watch?v=MbqSMgMAzxU)
 * [**Architecting a Modern Financial Institution**](https://www.youtube.com/watch?v=VYuToviSx5Q)
+* [Bitcoin Transactions - **Intro**](https://www.bitcoin.com/get-started/how-bitcoin-transactions-work/)
