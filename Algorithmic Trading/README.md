@@ -11,3 +11,5 @@
 - [How To Automate The Stock Market Using FinRL (Deep Reinforcement Learning Library)?](https://analyticsindiamag.com/stock-market-prediction-using-finrl/)
 - [Deep Reinforcement Learning for Algorithmic Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812473)
 - [*Low Latency* High Frequency Trading](https://www.arista.com/en/solutions/low-latency-high-frequency-financial-trading-networks)
+- [*Turing Finance* Algorithmic Trading System Architecture](http://www.turingfinance.com/algorithmic-trading-system-architecture-post/)
+- [Stock Market Prices Do Not Follow Random Walks](http://www.turingfinance.com/stock-market-prices-do-not-follow-random-walks/)
