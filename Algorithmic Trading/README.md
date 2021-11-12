@@ -13,3 +13,4 @@
 - [*Low Latency* High Frequency Trading](https://www.arista.com/en/solutions/low-latency-high-frequency-financial-trading-networks)
 - [*Turing Finance* Algorithmic Trading System Architecture](http://www.turingfinance.com/algorithmic-trading-system-architecture-post/)
 - [Stock Market Prices Do Not Follow Random Walks](http://www.turingfinance.com/stock-market-prices-do-not-follow-random-walks/)
+- [Why Big Data & Intelligent Middleware will revolutionize Financial trading…(part 1 of 3)](https://www.vamsitalkstech.com/aml/why-big-data-intelligent-middleware-will-revolutionize-financial-trading-part-1-of-3/)
