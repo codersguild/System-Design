@@ -5,3 +5,4 @@
 * [Why Amazon Retail Went To A Service Oriented Architecture?](http://highscalability.com/blog/2016/7/13/why-amazon-retail-went-to-a-service-oriented-architecture.html)
 * [Discovering Hot Topics using Machine Learning](https://aws.amazon.com/blogs/architecture/discovering-hot-topics-using-machine-learning/)
 * [Building a Serverless Outbreak Management Solution with AWS Data Lab](https://aws.amazon.com/blogs/architecture/building-a-serverless-outbreak-management-solution-with-aws-data-lab/)
+* [How Amazon Is Using AI To Better Understand Customer Search Queries](https://analyticsindiamag.com/how-amazon-is-using-ai-to-better-understand-customer-search-queries/)
