@@ -12,6 +12,7 @@
   - [Google : Introduction to Distributed System Design](https://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html#Design) 
 - [The Anatomy of a Distributed System](https://www.youtube.com/watch?v=1TIzPL4878Q)
 - [**Distributed Systems in One Lesson by Tim Berglund**](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
+- [Lamport Clock](https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html)
 
 ## Streaming in Distributed Systems : 
 
