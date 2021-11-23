@@ -13,6 +13,7 @@
 - [The Anatomy of a Distributed System](https://www.youtube.com/watch?v=1TIzPL4878Q)
 - [**Distributed Systems in One Lesson by Tim Berglund**](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 - [Lamport Clock](https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html)
+- [As a Software Developer, Why Should You Care about the Monotonic Clock?](https://itnext.io/as-a-software-developer-why-should-you-care-about-the-monotonic-clock-7d9c8533595c)
 
 ## Streaming in Distributed Systems : 
 
