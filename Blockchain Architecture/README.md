@@ -18,3 +18,4 @@
 - [**Eth : EVM**](https://ethereum.org/en/developers/docs/evm/)
 - [**Mining | ETH**](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/mining/)
 - [**ETH | Build**](https://eth.build/)
+- [Dandelion: Redesigning the Bitcoin Network for Anonymity](https://medium.com/mit-security-seminar/dandelion-redesigning-the-bitcoin-network-for-anonymity-eee144b7f51)
