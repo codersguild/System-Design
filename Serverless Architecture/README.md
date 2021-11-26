@@ -10,3 +10,4 @@
 - [Serverless Functions for Microservices?](https://www.infoq.com/articles/serverless-microservices-flexibility/)
 - [Implementation : Flask, Serverless, Lambda, ... AWS](https://www.serverless.com/blog/flask-python-rest-api-serverless-lambda-dynamodb)
 - [Databases in the Microservices World](https://www.youtube.com/watch?v=-9Veoch50Bg)
+- [BBC Online: Architecting for Scale with the Cloud and Serverless](https://www.youtube.com/watch?v=WE-tkz2tf30)
