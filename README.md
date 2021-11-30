@@ -155,6 +155,7 @@ If you are going to have an onsite with a company, you should read their enginee
 
 * [InfoQ](https://www.infoq.com/)
 * [High Scalability](http://highscalability.com/)
+* [Complex Systems: Microservices and Humans](https://www.youtube.com/watch?v=E8A3Yn2Vjx8)
 * [The GitHub Blog](https://github.com/blog/category/engineering)
 * [Engineering at Quora](http://engineering.quora.com/)
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
