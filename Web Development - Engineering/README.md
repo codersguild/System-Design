@@ -6,6 +6,7 @@ Understand the basics of the web before diving in **System Design**.
 - [FrontEnd Stuff](https://www.youtube.com/c/JackHerrington/playlists)
 - [Front-End System Design Example](https://www.youtube.com/watch?v=LEaiGjffLEs)
 - [Microfrontend Architecture](https://www.youtube.com/watch?v=BuRB3djraeM)
+- [Design a Poll Widget](https://www.youtube.com/watch?v=lO6GyCvbDm8)
 
 ## Full-Stack Engineering 
 
