@@ -16,3 +16,4 @@
 - [Stock Market Prices Do Not Follow Random Walks](http://www.turingfinance.com/stock-market-prices-do-not-follow-random-walks/)
 - [Why Big Data & Intelligent Middleware will revolutionize Financial trading…(part 1 of 3)](https://www.vamsitalkstech.com/aml/why-big-data-intelligent-middleware-will-revolutionize-financial-trading-part-1-of-3/)
 - [Simple and Boring -- but works like a charm and delivers like a pro !](https://vladmihalcea.com/revogain-software-architecture/)
+- [Deep Learning for Trading -- *https://ml4trading.io*](https://ml4trading.io/chapter/16)
