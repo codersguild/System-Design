@@ -24,3 +24,4 @@
 * [Change Data Capture for Distributed Databases @Netflix](https://www.youtube.com/watch?v=Z4Gx7SP1E14)
 * [**QConf :** Netflix Play API - An Evolutionary Architecture](https://www.youtube.com/watch?v=6oPj-DW09DU)
 * [Scaling Event Sourcing for Netflix Downloads](https://www.youtube.com/watch?v=rsSld8NycCU)
+* [Pattern Matching @ Scale Using Finite State Machine -- Netflix](https://www.youtube.com/watch?v=WykSdgtLDD0)
