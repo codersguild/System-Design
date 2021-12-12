@@ -15,3 +15,4 @@
 - [8 steps to build a scalable and distributed system design for web applications](https://www.linkedin.com/pulse/8-steps-build-scalable-distributed-system-design-web-yamit-mehta)
 - ["Functional distributed systems beyond request/response" by Melinda Lu](https://www.youtube.com/watch?v=VWrpnT8rwVY)
 - [BBC Online: Architecting for Scale with the Cloud and Serverless](https://www.youtube.com/watch?v=WE-tkz2tf30)
+- [Microservices Database Management](https://relevant.software/blog/microservices-database-management/)
