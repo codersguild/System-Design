@@ -56,6 +56,7 @@ engineering project.
 - [Requirements Engineering](https://medium.com/omarelgabrys-blog/requirements-engineering-introduction-part-1-6d49001526d3)
 - [How to manage Modern Software Projects ?](https://medium.com/@lizparody/waterfall-vs-agile-methodology-in-software-development-1e19ef168cf6)
 - [A Design Doc : Online Judge (https://www.youtube.com/watch?v=_eRTl_YxgUw)](https://docs.google.com/document/d/1MgoMz8McpZAmAq_hJfn1topocHqfmAhcbqq42zJEMsY/edit)
+- [*Important* Data Engineering](https://www.dremio.com/data-lake/data-engineering/)
 
 **High-level architecture design**
 
