@@ -17,3 +17,5 @@
 - [Real-Time Exactly-Once Ad Event Processing with Apache Flink, Kafka, and Pinot](https://eng.uber.com/real-time-exactly-once-ad-event-processing/)
 - [Introducing AresDB: Uber’s GPU-Powered Open Source, Real-time Analytics Engine](https://eng.uber.com/aresdb/)
 - [Time Series Forecasting @Uber](https://www.youtube.com/watch?v=VYpAodcdFfA)
+- [Forecasting @UBER](https://www.youtube.com/watch?v=bn8rVBuIcFg)
+- [Deep and Confident Prediction for Time Series at Uber](https://arxiv.org/pdf/1709.01907.pdf)
