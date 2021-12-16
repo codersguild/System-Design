@@ -20,6 +20,7 @@
 - https://www.nginx.com/resources/library/microservices-up-and-running/?utm_medium=paid-display&utm_source=infoq&utm_campaign=ww-nx_pgkub&utm_content=eb-sponsoredupdate
 - [Increase Your DevOps Productivity Using Infrastructure as Low Code](https://dzone.com/articles/increase-your-devops-productivity-using-infrastruc)
 - [Implementing smoke testing in production and staging. DIY vs Ad-Hoc Tool](https://frontendrobot.com/blog/implementing-smoke-testing-in-production/)
+- [GitOps on Kubernetes: Deciding Between Argo CD and Flux](https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/)
 
 ## Topics 
 
