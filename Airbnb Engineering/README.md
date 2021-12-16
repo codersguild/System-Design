@@ -9,3 +9,4 @@
 - [How to Tame Your Service APIs: Evolving Airbnb’s Architecture](https://www.youtube.com/watch?v=yI91FSghAL4)
 - [The Human Side of Airbnb’s Microservice Architecture](https://www.youtube.com/watch?v=yGOtTd-l_3E)
 - [Airbnb, From Monolith to Microservices: How to Scale Your Architecture](https://www.youtube.com/watch?v=N1BWMW9NEQc)
+- [Airbnb Streamlines the Development Process with a Unified Architecture for Collaborative Hosting](https://www.infoq.com/news/2021/12/airbnb-unified-architecture/)
