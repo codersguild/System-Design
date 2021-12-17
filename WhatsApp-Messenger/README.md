@@ -7,3 +7,7 @@
 - [yowsup WhatsApp Python Lib for Communication](https://github.com/tgalal/yowsup/wiki/Architecture)
 - [IBM Blog : XMPP Architecture](https://developer.ibm.com/technologies/messaging/tutorials/x-xmppintro/)
 - [WhatsApp Engineering at Scale : FB Blog](https://developers.facebook.com/videos/f8-2016/a-look-at-whatsapp-engineering-for-success-at-scale/)
+- [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/)
+- [DIT — enabling de-identified data collection on WhatsApp](https://engineering.fb.com/2021/04/16/security/dit/)
+- [Project LightSpeed: Rewriting the Messenger codebase for a faster, smaller, and simpler messaging app](https://engineering.fb.com/2020/03/02/data-infrastructure/messenger/)
+- [Data Transfer Project: Enabling portability of photos and videos between services](https://engineering.fb.com/2019/12/02/security/data-transfer-project/)
