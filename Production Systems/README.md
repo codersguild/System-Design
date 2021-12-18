@@ -21,6 +21,7 @@
 - [Increase Your DevOps Productivity Using Infrastructure as Low Code](https://dzone.com/articles/increase-your-devops-productivity-using-infrastruc)
 - [Implementing smoke testing in production and staging. DIY vs Ad-Hoc Tool](https://frontendrobot.com/blog/implementing-smoke-testing-in-production/)
 - [GitOps on Kubernetes: Deciding Between Argo CD and Flux](https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/)
+- [LightSys: Lightweight and Efficient CI System for Improving Integration Speed of Software](https://www.youtube.com/watch?v=i_iSo1lwJJk&t=253s)
 
 ## Topics 
 
