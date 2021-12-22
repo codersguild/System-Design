@@ -9,4 +9,5 @@
 - [Discord Blogs](https://blog.discord.com/how-discord-maintains-performance-while-adding-features-28ddaf044333)
 - [Why Discord is Sticking with React Native](https://blog.discord.com/why-discord-is-sticking-with-react-native-ccc34be0d427)
 - [How Discord Maintains Performance While Adding Features](https://blog.discord.com/how-discord-maintains-performance-while-adding-features-28ddaf044333)
-- [how-discord-creates-insights-from-trillions-of-data-points](https://discord.com/blog/how-discord-creates-insights-from-trillions-of-data-points)
+- [How-discord-creates-insights-from-trillions-of-data-points](https://discord.com/blog/how-discord-creates-insights-from-trillions-of-data-points)
+- [Building open-source design tools to improve Discord’s design workflow](https://blog.discord.com/building-open-source-design-tools-to-improve-discords-design-workflow-9a25c29f9143)
