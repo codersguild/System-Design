@@ -5,6 +5,7 @@
 - [Bringing what’s new from teams across Uber to life](https://www.uber.com/en-IN/blog/bringing-whats-new-from-teams-across-uber-to-life/)
 - [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/)
 - [Customer Support Automation Platform at Uber](https://eng.uber.com/customer-automation-platform/)
+- [CRISP: Critical Path Analysis for Microservice Architectures](https://eng.uber.com/crisp-critical-path-analysis-for-microservice-architectures/)
 - [Operating Apache Pinot @ Uber Scale](https://eng.uber.com/operating-apache-pinot/)
 - [‘Orders Near You’ and User-Facing Analytics on Real-Time Geospatial Data](https://eng.uber.com/orders-near-you/)
 - [Elastic Distributed Training with XGBoost on Ray](https://eng.uber.com/elastic-xgboost-ray)
