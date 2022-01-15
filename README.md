@@ -22,8 +22,10 @@ We are working to create good content to fulfil the needs of system-design noobs
 - https://cs.fit.edu/~kgallagher/Schtick/Serious/SWEBOKv3.pdf
 - [System Design Basics by Aditya Malshikhare](https://www.linkedin.com/feed/update/urn:li:activity:6881853381657321472/?commentUrn=urn%3Ali%3Acomment%3A(ugcPost%3A6881853381124636672%2C6881999479675908096))
 
-## All-Time Favourites from `Highscalability.com`
+## All-Time Favourites
+
 * [http://highscalability.com/all-time-favorites/](http://highscalability.com/all-time-favorites/)
+* [Software Engineering Daily](https://softwareengineeringdaily.com/)
 
 ## How to prepare system design questions?
 
