@@ -23,6 +23,7 @@
 - [GitOps on Kubernetes: Deciding Between Argo CD and Flux](https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/)
 - [LightSys: Lightweight and Efficient CI System for Improving Integration Speed of Software](https://www.youtube.com/watch?v=i_iSo1lwJJk&t=253s)
 - [A simple yet effective approach to network monitoring](https://www.digitalocean.com/blog/a-glimpse-into-network-availability)
+- [Infrastructure as Code with Rob Hirschfeld](https://softwareengineeringdaily.com/2022/01/14/infrastructure-as-code-with-rob/)
 
 ## Topics 
 
