@@ -6,9 +6,9 @@
 
 Modified from [Zach](https://github.com/checkcheckzz) system design repository. Added more links and topics to cover on both PS/DS & System Design Interviews. We will keep updating this posting from time to time. Some more [awesome resource](https://github.com/binhnguyennus/awesome-scalability)
 
-## Acknowledgements
+## Disclaimer/Acknowledgements
 
-I didnot write the `articles` myself. I love exapnding my understanding of `system design` complexities and thus end up reading alot of books, research papers and articles that enhance my knowledge. I take the opportunity to thank everyone who found this repository useful. I mention a special thanks to all the authours and developers who write the articles that I have aggregated in this repository. Again, a big `Thanks !`. 
+I didn't write the `articles` myself. I love expanding my understanding of `system design` complexities and thus read many books, research papers, and articles that enhance my knowledge. I take the opportunity to thank everyone who found this repository useful. I would like to thank all the authors and developers who wrote the articles aggregated in this repository.
 
 ## More Content Comming !
 
