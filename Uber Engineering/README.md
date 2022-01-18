@@ -21,3 +21,5 @@
 - [Forecasting @UBER](https://www.youtube.com/watch?v=bn8rVBuIcFg)
 - [Deep and Confident Prediction for Time Series at Uber](https://arxiv.org/pdf/1709.01907.pdf)
 - [Building Uber’s Fulfillment Platform for Planet-Scale using Google Cloud Spanner](https://eng.uber.com/building-ubers-fulfillment-platform/)
+- [UBER State Machine -- Trips](https://eng.uber.com/sessionizing-data/)
+- [Design the Uber backend: System design walkthrough](https://www.educative.io/blog/uber-backend-system-design)
