@@ -23,3 +23,4 @@
 - [Building Uber’s Fulfillment Platform for Planet-Scale using Google Cloud Spanner](https://eng.uber.com/building-ubers-fulfillment-platform/)
 - [UBER State Machine -- Trips](https://eng.uber.com/sessionizing-data/)
 - [Design the Uber backend: System design walkthrough](https://www.educative.io/blog/uber-backend-system-design)
+- [SED : Uber State Machine with Uday Kiran Medisetty](https://softwareengineeringdaily.com/2022/01/18/uber-state-machine-with-uday-kiran-medisetty/)
