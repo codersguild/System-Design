@@ -12,3 +12,4 @@
 - [Project LightSpeed: Rewriting the Messenger codebase for a faster, smaller, and simpler messaging app](https://engineering.fb.com/2020/03/02/data-infrastructure/messenger/)
 - [Data Transfer Project: Enabling portability of photos and videos between services](https://engineering.fb.com/2019/12/02/security/data-transfer-project/)
 - [WhatsApp Business API Reference : Can you implement an API service to mimic it?](https://developers.facebook.com/docs/whatsapp/on-premises/reference)
+- [Pinterest Engineering](https://softwareengineeringdaily.com/2022/01/11/pinterest-engineering/)
