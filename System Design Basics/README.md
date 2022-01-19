@@ -24,6 +24,8 @@
 * [Redis as a Cache : But Why?](https://redislabs.com/wp-content/uploads/2016/03/15-Reasons-Caching-is-best-with-Redis-RedisLabs-1.pdf)
 * [7 Microservices Best Practices for Developers](https://dzone.com/articles/7-microservices-best-practices-for-developers)
 * [Pitfalls and Patterns in Microservice Dependency Management](https://www.youtube.com/watch?v=kjbfvP65Jn0)
+* [Language Choice Matters : Why We Switched from Python to Go](https://softwareengineeringdaily.com/2021/03/03/why-we-switched-from-python-to-go/)
+
 
 ### Software & API Design Bytes : 
 
