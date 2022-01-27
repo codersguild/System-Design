@@ -24,3 +24,4 @@
 - [UBER State Machine -- Trips](https://eng.uber.com/sessionizing-data/)
 - [Design the Uber backend: System design walkthrough](https://www.educative.io/blog/uber-backend-system-design)
 - [SED : Uber State Machine with Uday Kiran Medisetty](https://softwareengineeringdaily.com/2022/01/18/uber-state-machine-with-uday-kiran-medisetty/)
+- [Architecting with Google Cloud](https://www.youtube.com/watch?v=DY2AR8Wzg3Y)
