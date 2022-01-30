@@ -16,3 +16,4 @@
 - ["Functional distributed systems beyond request/response" by Melinda Lu](https://www.youtube.com/watch?v=VWrpnT8rwVY)
 - [BBC Online: Architecting for Scale with the Cloud and Serverless](https://www.youtube.com/watch?v=WE-tkz2tf30)
 - [Microservices Database Management](https://relevant.software/blog/microservices-database-management/)
+- [Ad-free Search on Neeva with Darin Fisher](https://softwareengineeringdaily.com/2022/01/25/neeva-with-darin/)
