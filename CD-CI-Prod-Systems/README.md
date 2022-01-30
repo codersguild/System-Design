@@ -25,6 +25,7 @@
 - [A simple yet effective approach to network monitoring](https://www.digitalocean.com/blog/a-glimpse-into-network-availability)
 - [Infrastructure as Code with Rob Hirschfeld](https://softwareengineeringdaily.com/2022/01/14/infrastructure-as-code-with-rob/)
 - [SE Daily : Flowdash with Nick Gervasi](https://softwareengineeringdaily.com/2022/01/19/flowdash-with-nick-gervasi/)
+- [SE Daily : Rackspace with Jeff DeVerter](https://softwareengineeringdaily.com/2022/01/26/rackspace-with-jeff-deverter/)
 
 ## Topics 
 
