@@ -1,5 +1,6 @@
 # Uber Engineering Blog (Links)
 
+- [Designing Uber](http://highscalability.com/blog/2022/1/25/designing-uber.html)
 - [The Uber Engineering Tech Stack, Part I: The Foundation](https://eng.uber.com/tech-stack-part-one-foundation/)
 - [Uber’s Fulfillment Platform: Ground-up Re-architecture to Accelerate Uber’s Go/Get Strategy](https://eng.uber.com/fulfillment-platform-rearchitecture)
 - [Bringing what’s new from teams across Uber to life](https://www.uber.com/en-IN/blog/bringing-whats-new-from-teams-across-uber-to-life/)
