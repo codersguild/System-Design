@@ -8,3 +8,4 @@
 - [Scaling PlanetScale with Sugu Sougoumarane](https://softwareengineeringdaily.com/2022/01/31/scaling-planetscale-with-sugu-sougoumarane/)
 - [Massive Scale Databases](https://itnext.io/massive-scale-databases-5b5917ed94e5)
 - [Aggregates, Entities and Value Objects in Domain-Driven Design](https://www.infoq.com/news/2015/01/aggregates-value-objects-ddd/?itm_source=presentations_about_DesignPattern&itm_medium=link&itm_campaign=DesignPattern)
+- [Domain-Driven Design with Onion Architecture](https://www.infoq.com/news/2014/10/ddd-onion-architecture/?itm_source=presentations_about_DesignPattern&itm_medium=link&itm_campaign=DesignPattern)
