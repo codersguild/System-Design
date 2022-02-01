@@ -1,5 +1,6 @@
 ## Serverless Architechture
 
+- [Design Patterns for Serverless Systems](https://www.infoq.com/articles/design-patterns-for-serverless-systems/?itm_campaign=rightbar_v2&itm_source=infoq&itm_medium=articles_link&itm_content=link_text)
 - [Serverless is really complex. Or is it?](http://highscalability.com/blog/2020/7/31/stuff-the-internet-says-on-scalability-for-july-31st-2020.html)
 - [https://github.com/serverless/examples](https://github.com/serverless/examples)
 - [Building a Serverless URL Shortener](https://www.freecodecamp.org/news/how-to-build-a-serverless-url-shortener-using-aws-lambda-and-s3-4fbdf70cbf5c/)
