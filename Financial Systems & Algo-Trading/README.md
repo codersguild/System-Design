@@ -18,3 +18,5 @@
 - [Simple and Boring -- but works like a charm and delivers like a pro !](https://vladmihalcea.com/revogain-software-architecture/)
 - [Deep Learning for Trading -- *https://ml4trading.io*](https://ml4trading.io/chapter/16)
 - [Deep Trading](https://github.com/Rachnog/Deep-Trading)
+- [Applying Machine Learning to Financial Payments](https://www.infoq.com/presentations/machine-learning-financial-payments/?topicPageSponsorship=b7a60f52-8c62-4239-94dd-1d3b5d5b3c20&itm_source=presentations_about_MachineLearning&itm_medium=link&itm_campaign=MachineLearning)
+- [Strange Loop Conference : "Building Financial Systems on Eventually Consistent DBs" by Rahul Pilani](https://www.youtube.com/watch?v=KH0l8QqhzYk)
