@@ -25,3 +25,4 @@
 * [**QConf :** Netflix Play API - An Evolutionary Architecture](https://www.youtube.com/watch?v=6oPj-DW09DU)
 * [Scaling Event Sourcing for Netflix Downloads](https://www.youtube.com/watch?v=rsSld8NycCU)
 * [Pattern Matching @ Scale Using Finite State Machine -- Netflix](https://www.youtube.com/watch?v=WykSdgtLDD0)
+* [Designing Netflix](http://highscalability.com/blog/2021/12/13/designing-netflix.html)
