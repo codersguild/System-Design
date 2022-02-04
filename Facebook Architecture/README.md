@@ -14,3 +14,5 @@
 - [Learn from Outrages](https://engineering.fb.com/2021/10/04/networking-traffic/outage/)
 - [Scaling Facebook Live Videos to a Billion Users](https://www.youtube.com/watch?v=IO4teCbHvZw)
 - [Production Engineering -- SLICK: Adopting SLOs for improved reliability @FB](https://engineering.fb.com/2021/12/13/production-engineering/slick/)
+- [Engineering FB : Ribbon Filter](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/)
+- [HyperLogLog @Facebook](https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/)
