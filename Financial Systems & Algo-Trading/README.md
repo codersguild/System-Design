@@ -20,3 +20,6 @@
 - [Deep Trading](https://github.com/Rachnog/Deep-Trading)
 - [Applying Machine Learning to Financial Payments](https://www.infoq.com/presentations/machine-learning-financial-payments/?topicPageSponsorship=b7a60f52-8c62-4239-94dd-1d3b5d5b3c20&itm_source=presentations_about_MachineLearning&itm_medium=link&itm_campaign=MachineLearning)
 - [Strange Loop Conference : "Building Financial Systems on Eventually Consistent DBs" by Rahul Pilani](https://www.youtube.com/watch?v=KH0l8QqhzYk)
+- [MetaTrader Business](https://www.metatrader5.com/en)
+- [AmiBroker Application](https://www.amibroker.com/)
+- [TradingView](https://in.tradingview.com/)
