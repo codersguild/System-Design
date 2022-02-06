@@ -7,3 +7,4 @@
 - [Tron DApps](https://tron.network/)
 - [How Uniswap works?](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works)
 - [What Is Avalanche (AVAX)?](https://academy.binance.com/en/articles/what-is-avalanche-avax)
+- [Decentralized Autonomous Organisations DAO in Solidity](https://m.youtube.com/watch?v=rD8AxZ_wBA4&feature=youtu.be)
