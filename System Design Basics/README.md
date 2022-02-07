@@ -1,5 +1,6 @@
 # System-Design
 
+* [Concurrency vs. Parallelism — A brief view](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)
 * [Designing Microservices the right way](https://www.youtube.com/watch?v=j6ow-UemzBc)
 * [Microservice Architecture @Uber](https://eng.uber.com/microservice-architecture/)
 * [Clean Software Architecture](https://herbertograca.com/tag/software-architecture/)
@@ -27,6 +28,7 @@
 * [7 Microservices Best Practices for Developers](https://dzone.com/articles/7-microservices-best-practices-for-developers)
 * [Pitfalls and Patterns in Microservice Dependency Management](https://www.youtube.com/watch?v=kjbfvP65Jn0)
 * [Language Choice Matters : Why We Switched from Python to Go](https://softwareengineeringdaily.com/2021/03/03/why-we-switched-from-python-to-go/)
+* [Pieces of a Scalable iOS App Architecture](https://betterprogramming.pub/pieces-of-a-scalable-ios-app-architecture-7c182f9dcd2c)
 
 
 ### Software & API Design Bytes : 
