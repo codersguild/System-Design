@@ -16,3 +16,4 @@
 - [Production Engineering -- SLICK: Adopting SLOs for improved reliability @FB](https://engineering.fb.com/2021/12/13/production-engineering/slick/)
 - [Engineering FB : Ribbon Filter](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/)
 - [HyperLogLog @Facebook](https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/)
+- [Facebook's Photo Storage Architecture  - scaleyourapp.com](https://www.scaleyourapp.com/facebook-photo-storage-architecture/)
