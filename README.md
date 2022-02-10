@@ -1,3 +1,5 @@
+# SYSTEM DESIGN IS NOT JUST FOR INTERVIEWS, IT CAN BE HOW YOU LIVE YOUR LIFE. GIVE IT A THOUGHT
+
 ### System Design Bytes for Enthusiasts
 
 ![System Design Discussions](https://raw.githubusercontent.com/codersguild/System-Design/master/system-design.PNG)
