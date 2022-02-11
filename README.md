@@ -1,5 +1,3 @@
-# SYSTEM DESIGN IS NOT JUST FOR INTERVIEWS, IT CAN BE HOW YOU LIVE YOUR LIFE. GIVE IT A THOUGHT
-
 ### System Design Bytes for Enthusiasts
 
 ![System Design Discussions](https://raw.githubusercontent.com/codersguild/System-Design/master/system-design.PNG)
@@ -7,6 +5,8 @@
 ##### I complied and collected some of the articles as a part of doing ```CS654A``` Course at ```IIT Kanpur``` for a fantastic course on ```Advanced Software Architecture``` taught by [`Prof.Dr.T.V.Prabbhakar`](https://www.iitk.ac.in/new/index.php/dr-tadinada-venkata-prabhakar).
 
 Modified from [Zach](https://github.com/checkcheckzz) system design repository. Added more links and topics to cover on both PS/DS & System Design Interviews. We will keep updating this posting from time to time. Some more [awesome resource](https://github.com/binhnguyennus/awesome-scalability)
+
+## `SYSTEM DESIGN IS NOT JUST FOR INTERVIEWS, IT CAN BE HOW YOU MANAGE YOUR LIFE. GIVE IT A THOUGHT`
 
 ## Disclaimer/Acknowledgements
 
