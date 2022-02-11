@@ -26,3 +26,5 @@
 - [Design the Uber backend: System design walkthrough](https://www.educative.io/blog/uber-backend-system-design)
 - [SED : Uber State Machine with Uday Kiran Medisetty](https://softwareengineeringdaily.com/2022/01/18/uber-state-machine-with-uday-kiran-medisetty/)
 - [Architecting with Google Cloud](https://www.youtube.com/watch?v=DY2AR8Wzg3Y)
+- [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/)
+- [Faster Neural Networks Straight from JPEG](https://eng.uber.com/neural-networks-jpeg/)
