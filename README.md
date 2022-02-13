@@ -359,6 +359,10 @@ Reference:
 - [Youtube Link-1 : Gaurav Sen](https://www.youtube.com/watch?v=eg0nlYcbLpo)
 - [Youtube Link-2](https://www.youtube.com/watch?v=cMH2aa0xNYQ)
 
+**Design a Payment System**
+* [Digital Wallet Design](https://techwithkp.com/digital-wallet-design-machine-coding-round-solution/)
+
+
 
 **Basic SRE**
 Reference:
