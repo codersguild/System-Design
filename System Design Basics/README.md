@@ -30,6 +30,8 @@
 * [Language Choice Matters : Why We Switched from Python to Go](https://softwareengineeringdaily.com/2021/03/03/why-we-switched-from-python-to-go/)
 * [Pieces of a Scalable iOS App Architecture](https://betterprogramming.pub/pieces-of-a-scalable-ios-app-architecture-7c182f9dcd2c)
 
+## Machine Coding Basics
+* [Machine Coding Explained With Examples](https://techwithkp.com/machine-coding-round-what-is-it-how-to-crack-it/)
 
 ### Software & API Design Bytes : 
 
