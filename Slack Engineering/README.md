@@ -7,3 +7,4 @@
 - [How We Design Our APIs at Slack?](https://slack.engineering/how-we-design-our-apis-at-slack/)
 - [Slack Security : How Two Interns Are Helping Secure Millions of Lines of Code](https://slack.engineering/how-two-interns-are-helping-secure-millions-of-lines-of-code/)
 - [The Case of the Recursive Resolvers](https://slack.engineering/what-happened-during-slacks-dnssec-rollout/)
+- [Slack 22.2.22 Outage Explained!](https://www.youtube.com/watch?v=8pWA7jsdha8)
