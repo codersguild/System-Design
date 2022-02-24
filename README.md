@@ -247,6 +247,11 @@ The following papers/articles/slides can help you to understand the general desi
 * [Azure DataCenter Architecture](https://youtu.be/69PrhWQorEM)
 * [Evolution Of Search Engines Architecture - Highscalability](http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html)
 
+## Trends
+
+- [Emerging Trends in Software Architecture](https://www.oreilly.com/library/view/software-architecture-a/9788131707494/ch07.html)
+- [Software Architecture and Design InfoQ Trends Report—April 2020](https://www.infoq.com/articles/architecture-trends-2020/)
+
 ### [[⬆]](#toc) <a name='qs'>Hot Questions and Reference:</a>
 
 There are some good references for each question. The references here are slides and articles. 
