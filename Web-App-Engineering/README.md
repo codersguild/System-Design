@@ -3,6 +3,7 @@
 Understand the basics of the web before diving in **System Design**. 
 
 - [Micro-frontends](https://www.youtube.com/watch?v=lKKsjpH09dU)
+- [React Microfrontends](https://blog.bitsrc.io/how-to-develop-microfrontends-using-react-step-by-step-guide-47ebb479cacd)
 - [SE Daily - Micro-Frontends with Luca Mezzalira](https://softwareengineeringdaily.com/2022/02/14/micro-frontends-with-luca-mezzalira/)
 - [FrontEnd Stuff](https://www.youtube.com/c/JackHerrington/playlists)
 - [Front-End System Design Example](https://www.youtube.com/watch?v=LEaiGjffLEs)
