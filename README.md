@@ -98,6 +98,7 @@ Here are some articles about system design related topics.
 * [Services Engineering Resources](https://github.com/mmcgrana/services-engineering)
 * [How to Rock a Systems Design Interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 * [System Interview](http://www.hiredintech.com/app#system-design)
+* [SE Daily : Fiverr Engineering with Gil Sheinfeld](https://softwareengineeringdaily.com/2017/11/15/fiverr-engineering-with-gil-scheinfeld/)
 * [Scalability for Dummies](http://www.lecloud.net/tagged/scalability)
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 * [Numbers Everyone Should Know](http://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
