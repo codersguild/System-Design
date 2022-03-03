@@ -31,3 +31,4 @@
 
 - [Infrastructure-as-Code: 6 Best Practices for Securing Applications](https://thenewstack.io/infrastructure-as-code-6-best-practices-for-securing-applications/)
 - [Infrastructure-as-Code is the building block for scalable technology](https://blogs.oracle.com/startup/post/infrastructure-as-code-is-the-building-block-for-scalable-technology)
+- [Decision Making on Prices : Taloflow with LV Jadavji](https://softwareengineeringdaily.com/2022/03/02/taloflow-with-lv-jadavji/)
