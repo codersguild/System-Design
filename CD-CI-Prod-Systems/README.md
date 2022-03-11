@@ -1,5 +1,6 @@
 ## Deployments 
 
+- [What is build automation? Must know for CD/CI](https://en.wikipedia.org/wiki/Build_automation)
 - https://docs.travis-ci.com/user/for-beginners/
 - https://buddy.works/
 - https://travis-ci.org/
