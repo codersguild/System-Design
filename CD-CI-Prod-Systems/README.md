@@ -1,6 +1,7 @@
 ## Deployments 
 
 - [What is build automation? Must know for CD/CI](https://en.wikipedia.org/wiki/Build_automation)
+- [SE Daily : Software Supply Chain with Barak Schoster](https://softwareengineeringdaily.com/2022/03/10/software-supply-chain-with-barak-schoster/)
 - https://docs.travis-ci.com/user/for-beginners/
 - https://buddy.works/
 - https://travis-ci.org/
