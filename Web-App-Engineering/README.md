@@ -11,7 +11,7 @@ Understand the basics of the web before diving in **System Design**.
 - [Design a Poll Widget](https://www.youtube.com/watch?v=lO6GyCvbDm8)
 - [Introductory - Learn HTML Free in [2022] – Basic HTML Codes for Beginners](https://www.websiteplanet.com/blog/html-guide-beginners/)
 
-## Full-Stack Engineering 
+## App/Full-Stack/Backend Engineering 
 
 Implementation & Project links.
 
@@ -19,3 +19,4 @@ Implementation & Project links.
 - [A Front-End's (good) impressions about Elixir](https://medium.com/inside-sumup/a-front-ends-good-impressions-about-elixir-68f8983d8ab)
 - [Learn Responsive Web Design by Building 20 Projects – a Major freeCodeCamp Curriculum Update](https://www.freecodecamp.org/news/responsive-web-design-certification-redesigned/)
 - [React Architecture Patterns for Your Projects](https://blog.openreplay.com/react-architecture-patterns-for-your-projects)
+- [Architecture Of Max ReHIT Workout](http://highscalability.com/blog/2021/11/30/architecture-of-max-rehit-workout.html)
