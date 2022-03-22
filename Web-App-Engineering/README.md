@@ -20,3 +20,4 @@ Implementation & Project links.
 - [Learn Responsive Web Design by Building 20 Projects – a Major freeCodeCamp Curriculum Update](https://www.freecodecamp.org/news/responsive-web-design-certification-redesigned/)
 - [React Architecture Patterns for Your Projects](https://blog.openreplay.com/react-architecture-patterns-for-your-projects)
 - [Architecture Of Max ReHIT Workout](http://highscalability.com/blog/2021/11/30/architecture-of-max-rehit-workout.html)
+- [A Product Story: Three Lessons We Learned from Developing the Mobile App](https://engineering.atspotify.com/2021/10/a-product-story-three-lessons-we-learned-from-developing-the-mobile-app/)
