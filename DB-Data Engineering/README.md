@@ -17,3 +17,4 @@
 - [InfluxData with Zoe Steinkamp](https://softwareengineeringdaily.com/2021/12/15/influxdata-with-zoe-steinkamp/)
 - [SE Daily : Why Everyone Needs a Data Privacy Vault](https://softwareengineeringdaily.com/2022/03/12/why-everyone-needs-a-data-privacy-vault/)
 - [SE Daily : Apache Hudi](https://softwareengineeringdaily.com/2022/03/08/apache-hudi-with-vinoth-chandar/)
+- [SingleStore with Jordan Tigani](https://softwareengineeringdaily.com/2022/03/28/singlestore-with-jordan-tigani/)
