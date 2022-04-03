@@ -1,5 +1,6 @@
 # System-Design
 
+* [The cost of Hash Tables | The Backend Engineering Show](https://www.youtube.com/watch?v=hxdT_QgHUSg)
 * [Concurrency vs. Parallelism — A brief view](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)
 * [Designing Tinder](http://highscalability.com/blog/2022/1/17/designing-tinder.html)
 * [Designing Microservices the right way](https://www.youtube.com/watch?v=j6ow-UemzBc)
