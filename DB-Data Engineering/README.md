@@ -18,3 +18,4 @@
 - [SE Daily : Why Everyone Needs a Data Privacy Vault](https://softwareengineeringdaily.com/2022/03/12/why-everyone-needs-a-data-privacy-vault/)
 - [SE Daily : Apache Hudi](https://softwareengineeringdaily.com/2022/03/08/apache-hudi-with-vinoth-chandar/)
 - [SingleStore with Jordan Tigani](https://softwareengineeringdaily.com/2022/03/28/singlestore-with-jordan-tigani/)
+- [Data Engineering Trends with Lior Gavish and James Densmore](https://softwareengineeringdaily.com/2022/04/04/data-engineering-trends-with-lior-gavish-and-james-densmore/)
