@@ -23,3 +23,4 @@
 - [MetaTrader Business](https://www.metatrader5.com/en)
 - [AmiBroker Application](https://www.amibroker.com/)
 - [TradingView](https://in.tradingview.com/)
+- [Bitski: Web3 Infrastructure with Patrick Tescher](https://softwareengineeringdaily.com/2022/04/01/bitski-web3-infrastructure-with-patrick-tescher/)
