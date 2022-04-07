@@ -14,6 +14,7 @@
 * [Scaling Patterns for Netflix's Edge](https://www.infoq.com/presentations/netflix-edge-scalability-patterns/)
 * [A 360 Degree View Of The Entire Netflix Stack](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-tack.htmlhttp://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html)
 * [The Eternal Cost Savings Of Netflix's Internal Spot Market](http://highscalability.com/blog/2017/12/4/the-eternal-cost-savings-of-netflixs-internal-spot-market.html)
+* [book-notes/high-scalability-notes.markdown Netflix](https://github.com/mgp/book-notes/blob/master/high-scalability-notes.markdown)
 * [Paper: Netflix’s Transition To High-Availability Storage Systems ](http://highscalability.com/blog/2010/10/22/paper-netflixs-transition-to-high-availability-storage-syste.html)
 * [Netflix: Developing, Deploying, And Supporting Software According To The Way Of The Cloud](http://highscalability.com/blog/2011/12/12/netflix-developing-deploying-and-supporting-software-accordi.html)
 * [NETFLIX system design](https://medium.com/@narengowda/netflix-system-design-dbec30fede8d)
