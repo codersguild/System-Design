@@ -30,6 +30,7 @@
 - [Infrastructure as Code with Rob Hirschfeld](https://softwareengineeringdaily.com/2022/01/14/infrastructure-as-code-with-rob/)
 - [SE Daily : Flowdash with Nick Gervasi](https://softwareengineeringdaily.com/2022/01/19/flowdash-with-nick-gervasi/)
 - [SE Daily : Rackspace with Jeff DeVerter](https://softwareengineeringdaily.com/2022/01/26/rackspace-with-jeff-deverter/)
+- [SE Daily : Warp Terminal of all(DevOps Eng.)](https://softwareengineeringdaily.com/2022/04/07/warp-terminal-with-zach-lloyd/)
 
 ## Topics 
 
