@@ -29,3 +29,5 @@
 * [Netflix :  Some more design aspects, ytb](https://www.youtube.com/watch?v=MxFt3YsjyQg)
 * [SE Daily : Notebooks at Netflix with Matthew Seal](https://softwareengineeringdaily.com/2019/01/15/notebooks-at-netflix-with-matthew-seal/)
 * [Designing Netflix](http://highscalability.com/blog/2021/12/13/designing-netflix.html)
+* [Cache warming: Leveraging EBS for moving petabytes of data](https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3)
+* [Revisiting BetterTLS: Certificate Path Building](https://netflixtechblog.com/revisiting-bettertls-certificate-path-building-4c978b79843f)
