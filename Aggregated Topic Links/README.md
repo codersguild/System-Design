@@ -1,6 +1,7 @@
 # Aggregated Topics :
 
 - [SE Daily - Knowledge-Based Programming with Stephen Wolfram](https://softwareengineeringdaily.com/2015/11/10/knowledge-based-programming-with-stephen-wolfram/)
+- [TV Input Format Architecture -- Hardware*](https://source.android.com/devices/tv)
 
 ### Eventual Consistency & CAP Theorem
 
