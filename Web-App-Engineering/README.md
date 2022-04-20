@@ -10,6 +10,7 @@ Understand the basics of the web before diving in **System Design**.
 - [Microfrontend Architecture](https://www.youtube.com/watch?v=BuRB3djraeM)
 - [Design a Poll Widget](https://www.youtube.com/watch?v=lO6GyCvbDm8)
 - [Introductory - Learn HTML Free in [2022] – Basic HTML Codes for Beginners](https://www.websiteplanet.com/blog/html-guide-beginners/)
+- [Design Concepts for Building a Website: Main Points to Consider](https://medium.com/@upqode/design-concepts-for-building-a-website-main-points-to-consider-92ae48d6d059)
 
 ## App/Full-Stack/Backend Engineering 
 
