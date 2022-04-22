@@ -12,6 +12,7 @@ Understand the basics of the web before diving in **System Design**.
 - [Introductory - Learn HTML Free in [2022] – Basic HTML Codes for Beginners](https://www.websiteplanet.com/blog/html-guide-beginners/)
 - [Design Concepts for Building a Website: Main Points to Consider](https://medium.com/@upqode/design-concepts-for-building-a-website-main-points-to-consider-92ae48d6d059)
 - [How I Built The Internet's Best Performing Code Execution Engine](https://www.youtube.com/watch?v=SD4KgwdjmdI)
+- [Build a website with Notion in seconds, no coding required](https://www.notion.so/help/guides/build-a-website-with-notion-in-seconds-no-coding-required)
 
 ## App/Full-Stack/Backend Engineering 
 
