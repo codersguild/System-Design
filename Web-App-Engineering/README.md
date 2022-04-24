@@ -1,5 +1,7 @@
 ## Development Related Stuff.
 
+- [SE Daily : JavaScript Supply Chain with Feross Aboukhadijeh](https://softwareengineeringdaily.com/2022/04/22/javascript-supply-chain-with-feross-aboukhadijeh/)
+
 Understand the basics of the web before diving in **System Design**. 
 
 - [Micro-frontends](https://www.youtube.com/watch?v=lKKsjpH09dU)
