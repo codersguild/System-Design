@@ -18,3 +18,5 @@
 - [BBC Online: Architecting for Scale with the Cloud and Serverless](https://www.youtube.com/watch?v=WE-tkz2tf30)
 - [Microservices Database Management](https://relevant.software/blog/microservices-database-management/)
 - [Ad-free Search on Neeva with Darin Fisher](https://softwareengineeringdaily.com/2022/01/25/neeva-with-darin/)
+- [Google Cloud : Design for scale and high availability](https://cloud.google.com/architecture/framework/reliability/design-scale-high-availability)
+- [Google Cloud Architecture Framework: System design](https://cloud.google.com/architecture/framework/system-design)
