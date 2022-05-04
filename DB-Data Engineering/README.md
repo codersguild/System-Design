@@ -21,3 +21,4 @@
 - [Data Engineering Trends with Lior Gavish and James Densmore](https://softwareengineeringdaily.com/2022/04/04/data-engineering-trends-with-lior-gavish-and-james-densmore/)
 - [SE Daily : TimeSeries InfluxDB](https://softwareengineeringdaily.com/2022/04/14/time-series-iot-on-influxdb-with-brian-gilmore/)
 - [Airbyte Engineering with Michel Tricot](https://softwareengineeringdaily.com/2022/04/26/airbyte-engineering-with-michel-tricot/)
+- [Starburst Infrastructure with Justin Borgman](https://softwareengineeringdaily.com/2022/04/28/starburst-infrastructure-with-justin-borgman/)
