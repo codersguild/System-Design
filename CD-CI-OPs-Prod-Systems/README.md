@@ -5,6 +5,7 @@
 - https://docs.travis-ci.com/user/for-beginners/
 - https://buddy.works/
 - https://travis-ci.org/
+- [Building Containerized GO applications.](https://www.youtube.com/watch?v=eFQIHyuVYoc)
 - https://circleci.com/docs/2.0/concepts/
 - https://circleci.com/docs/2.0/deployment-integrations/#using-orbs-to-simplify-deployment
 - [TypeForm's Production : Deep Purple](https://medium.com/typeforms-engineering-blog/typeforms-production-smoke-testing-building-our-tool-deep-purple-8d3ff85d3438)
