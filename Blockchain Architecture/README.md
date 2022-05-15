@@ -33,3 +33,4 @@ the source code, see if you can co-relate with paper and code in the repo.
 - [Dandelion: Redesigning the Bitcoin Network for Anonymity](https://medium.com/mit-security-seminar/dandelion-redesigning-the-bitcoin-network-for-anonymity-eee144b7f51)
 - [A Security Reference Architecture for Blockchains](https://arxiv.org/pdf/1904.06898.pdf)
 - [Web 3.0 (BuzzWord for some!)](https://coinmarketcap.com/alexandria/article/what-is-web-3-0)
+- [Arweave with Sam Williams](https://softwareengineeringdaily.com/2022/05/12/arweave-with-sam-williams/)
