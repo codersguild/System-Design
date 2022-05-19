@@ -13,3 +13,4 @@
 - [Building open-source design tools to improve Discord’s design workflow](https://blog.discord.com/building-open-source-design-tools-to-improve-discords-design-workflow-9a25c29f9143)
 - [INVESTIGATING DISCORD’S REACT MEMORY LEAK](https://discord.com/blog/investigating-discords-react-memory-leak)
 - [How Discord Indexes Billions of Messages](https://blog.discord.com/how-discord-indexes-billions-of-messages-e3d5e9be866f)
+- [HOW DATA SCIENCE INFORMS STRATEGY & INNOVATION AT DISCORD](https://discord.com/blog/how-data-science-informs-strategy-innovation-at-discord)
