@@ -22,3 +22,4 @@
 - [SE Daily : TimeSeries InfluxDB](https://softwareengineeringdaily.com/2022/04/14/time-series-iot-on-influxdb-with-brian-gilmore/)
 - [Airbyte Engineering with Michel Tricot](https://softwareengineeringdaily.com/2022/04/26/airbyte-engineering-with-michel-tricot/)
 - [Starburst Infrastructure with Justin Borgman](https://softwareengineeringdaily.com/2022/04/28/starburst-infrastructure-with-justin-borgman/)
+- [SE Daily : CloudGraph with Tyson Kunovsky](https://softwareengineeringdaily.com/2022/05/21/cloudgraph-with-tyson-kunovsky/)
