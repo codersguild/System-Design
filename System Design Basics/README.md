@@ -10,6 +10,7 @@
 * [Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
 * [Domain-Driven Design with Onion Architecture](https://www.infoq.com/news/2014/10/ddd-onion-architecture/?itm_source=presentations_about_DesignPattern&itm_medium=link&itm_campaign=DesignPattern)
 * [Exploring the Hexagonal Architecture](https://www.infoq.com/news/2014/10/exploring-hexagonal-architecture/?itm_source=presentations_about_DesignPattern&itm_medium=link&itm_campaign=DesignPattern)
+* [E-Commerce/food delivery app (Zomato/Swiggy/1mg)](https://medium.com/@ravindersengar/end-to-end-design-of-a-food-delivery-app-like-zomato-or-swiggy-52b96f3a635f)
 * [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 * [DDD + Golang](https://towardsdatascience.com/how-to-implement-domain-driven-design-ddd-in-golang-2e2139beb09d)
 * [Quick & Brief Overview of the basics](https://www.cronj.com/blog/system-designing-basics/)
