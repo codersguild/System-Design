@@ -1,5 +1,6 @@
 # System-Design
 
+* [Scaling with common sense #2: Being future ready.](https://zerodha.tech/blog/being-future-ready-with-common-sense/)
 * [The cost of Hash Tables | The Backend Engineering Show](https://www.youtube.com/watch?v=hxdT_QgHUSg)
 * [What Software Architecture Should Look Like • Dave Farley • GOTO 2022](https://www.youtube.com/watch?v=Eg_dapdKCHU)
 * [Concurrency vs. Parallelism — A brief view](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)
