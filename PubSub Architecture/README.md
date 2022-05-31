@@ -14,3 +14,4 @@
 * [Consumer/Producer Kafka](https://iwpnd.pw/articles/2020-03/apache-kafka-fastapi-geostream)
 * [Pub-Sub pattern: a brief explanation](https://dev.to/jucian0/pub-sub-pattern-a-brief-explanation-21ed)
 * [Pub-Sub using Kafka](https://solace.com/blog/solace-pubsub-vs-kafka-comparison-publish-subscribe-messaging-pattern/)
+* [SE Daily : Notifications Infrastructure with Chris Bell](https://softwareengineeringdaily.com/2022/05/24/notifications-infrastructure-with-chris-bell/)
