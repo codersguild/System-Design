@@ -20,3 +20,4 @@
 - [Ad-free Search on Neeva with Darin Fisher](https://softwareengineeringdaily.com/2022/01/25/neeva-with-darin/)
 - [Google Cloud : Design for scale and high availability](https://cloud.google.com/architecture/framework/reliability/design-scale-high-availability)
 - [Google Cloud Architecture Framework: System design](https://cloud.google.com/architecture/framework/system-design)
+- [Refactoring and Optimizing a High Traffic API at PayPal](https://medium.com/paypal-tech/refactoring-and-optimizing-a-high-traffic-api-at-paypal-eb11c373d795)
