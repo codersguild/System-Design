@@ -29,9 +29,10 @@
 - [LightSys: Lightweight and Efficient CI System for Improving Integration Speed of Software](https://www.youtube.com/watch?v=i_iSo1lwJJk&t=253s)
 - [A simple yet effective approach to network monitoring](https://www.digitalocean.com/blog/a-glimpse-into-network-availability)
 - [Infrastructure as Code with Rob Hirschfeld](https://softwareengineeringdaily.com/2022/01/14/infrastructure-as-code-with-rob/)
-- [SE Daily : Flowdash with Nick Gervasi](https://softwareengineeringdaily.com/2022/01/19/flowdash-with-nick-gervasi/)
-- [SE Daily : Rackspace with Jeff DeVerter](https://softwareengineeringdaily.com/2022/01/26/rackspace-with-jeff-deverter/)
-- [SE Daily : Warp Terminal for all(DevOps Eng.)](https://softwareengineeringdaily.com/2022/04/07/warp-terminal-with-zach-lloyd/)
+- [SE Daily: Flowdash with Nick Gervasi](https://softwareengineeringdaily.com/2022/01/19/flowdash-with-nick-gervasi/)
+- [SE Daily: Rackspace with Jeff DeVerter](https://softwareengineeringdaily.com/2022/01/26/rackspace-with-jeff-deverter/)
+- [SE Daily: Warp Terminal for all(DevOps Eng.)](https://softwareengineeringdaily.com/2022/04/07/warp-terminal-with-zach-lloyd/)
+- [SE Daily: [Kubernetes Spend with Webb Brown](https://softwareengineeringdaily.com/2022/06/16/kubernetes-spend-with-webb-brown/)]
 
 ## Topics 
 
