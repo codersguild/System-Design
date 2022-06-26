@@ -7,7 +7,6 @@ the source code, see if you can co-relate with paper and code in the repo.
 - There are a few standards that one must be aware of, ERC-721 and ERC-1155 token standards are absolutely necessary. 
 - Learn about the Byzantine Generals Problem and how it was solved. Learn about consensus problem and ask `Is Blockchain necessary?` when you encounter a similar problem?
 - Proof of Work is absolutely necessary, Proof-of-stake nom nom. 
-- YOU ARE NOT EXPECTED TO HAVE HODLED CRYPTO OR BE A MILLIONAIRE, but if are into it you have my deepest appreciations. (Has technology made you money other than it being in the form of salary? Done for me and many others!). This gives a bigger reason to know the underlying technology and taking rational useful decisions.
 
 ## What is Blockchain ? 
 
@@ -35,3 +34,4 @@ the source code, see if you can co-relate with paper and code in the repo.
 - [Web 3.0 (BuzzWord for some!)](https://coinmarketcap.com/alexandria/article/what-is-web-3-0)
 - [Arweave with Sam Williams](https://softwareengineeringdaily.com/2022/05/12/arweave-with-sam-williams/)
 - [How Terra Works?](https://docs.terra.money/docs/learn/protocol.html)
+- [https://coinrule.com/](https://coinrule.com/)
