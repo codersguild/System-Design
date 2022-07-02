@@ -15,3 +15,5 @@
 * [**Architecting a Modern Financial Institution**](https://www.youtube.com/watch?v=VYuToviSx5Q)
 * [Bitcoin Transactions - **Intro**](https://www.bitcoin.com/get-started/how-bitcoin-transactions-work/)
 * [Refactoring and Optimizing a High Traffic API at PayPal](https://medium.com/paypal-tech/refactoring-and-optimizing-a-high-traffic-api-at-paypal-eb11c373d795)
+* [Razorpay -- Building a SAST program at Razorpay’s scale](https://engineering.razorpay.com/building-a-sast-program-at-razorpays-scale-719887fe0aec)
+* [Razorpay -- Go Consuming All Your Resources?](https://engineering.razorpay.com/golang-consuming-all-your-resources-5730cac4b61)
