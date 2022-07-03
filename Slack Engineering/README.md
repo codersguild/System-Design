@@ -10,3 +10,5 @@
 - [Slack 22.2.22 Outage Explained!](https://www.youtube.com/watch?v=8pWA7jsdha8)
 - [Reducing Slack’s memory footprint](https://slack.engineering/reducing-slacks-memory-footprint/)
 - [Beyond the last message: Designing for all information in Slack ](https://slack.design/articles/beyond-the-last-message-designing-for-all-information-in-slack/)
+- [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
+- [Remote Development at Slack](https://slack.engineering/remote-development-at-slack/)
