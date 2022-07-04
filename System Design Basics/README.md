@@ -24,6 +24,7 @@
 * [More on System Design Basics](https://medium.com/system-design-blog)
 * [API Gateway Pattern](https://microservices.io/patterns/apigateway.html)
 * [8 steps to build a scalable and distributed system design for web applications](https://www.linkedin.com/pulse/8-steps-build-scalable-distributed-system-design-web-yamit-mehta)
+* [Building robust distributed systems](https://kislayverma.com/software-architecture/building-robust-distributed-systems/)
 * [Architecting Backend For A Social Product](http://highscalability.com/blog/2015/7/22/architecting-backend-for-a-social-product.html)
 * [http://highscalability.com/plentyoffish-architecture](http://highscalability.com/plentyoffish-architecture)
 * [Trouble with Timestamps](https://aphyr.com/posts/299-the-trouble-with-timestamps)
