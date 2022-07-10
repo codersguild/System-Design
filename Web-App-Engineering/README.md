@@ -35,3 +35,4 @@ Implementation & Project links.
 - [The 4 Creational Design Patterns In Node.js You Should Know](https://daily.dev/blog/the-4-creational-design-patterns-in-node-js-you-should-know)
 - [My Favorite Microservice Design Patterns for Node.js](https://blog.bitsrc.io/my-favorite-microservice-design-patterns-for-node-js-fe048c635d83)
 - [Remote Code Execution Platform](https://medium.com/@yashbudukh/building-a-remote-code-execution-system-9e55c5b248d6)
+- [What happens when you type a URL into your browser?](https://www.youtube.com/watch?v=AlkDbnbv7dk)
