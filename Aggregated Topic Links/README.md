@@ -1,4 +1,9 @@
-# Eventual Consistency & CAP Theorem
+# Aggregated Topics :
+
+- [SE Daily - Knowledge-Based Programming with Stephen Wolfram](https://softwareengineeringdaily.com/2015/11/10/knowledge-based-programming-with-stephen-wolfram/)
+- [TV Input Format Architecture -- Hardware*](https://source.android.com/devices/tv)
+
+### Eventual Consistency & CAP Theorem
 
 - [https://www.allthingsdistributed.com/2008/12/eventually_consistent.html](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 - [https://levelup.gitconnected.com/eventual-consistency-what-how-and-why-50c942472a0c](https://levelup.gitconnected.com/eventual-consistency-what-how-and-why-50c942472a0c)

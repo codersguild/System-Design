@@ -1,6 +1,7 @@
 # Uber Engineering Blog (Links)
 
 - [Designing Uber](http://highscalability.com/blog/2022/1/25/designing-uber.html)
+- [Design the Uber backend: System design walkthrough (educative)](https://www.educative.io/blog/uber-backend-system-design)
 - [The Uber Engineering Tech Stack, Part I: The Foundation](https://eng.uber.com/tech-stack-part-one-foundation/)
 - [Uber’s Fulfillment Platform: Ground-up Re-architecture to Accelerate Uber’s Go/Get Strategy](https://eng.uber.com/fulfillment-platform-rearchitecture)
 - [Bringing what’s new from teams across Uber to life](https://www.uber.com/en-IN/blog/bringing-whats-new-from-teams-across-uber-to-life/)
@@ -28,3 +29,4 @@
 - [Architecting with Google Cloud](https://www.youtube.com/watch?v=DY2AR8Wzg3Y)
 - [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/)
 - [Faster Neural Networks Straight from JPEG](https://eng.uber.com/neural-networks-jpeg/)
+- [Uber Design GKCS](https://www.youtube.com/watch?v=W0KNQuMka-Q)

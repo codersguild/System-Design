@@ -14,6 +14,7 @@
 - [**Distributed Systems in One Lesson by Tim Berglund**](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 - [Lamport Clock](https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html)
 - [As a Software Developer, Why Should You Care about the Monotonic Clock?](https://itnext.io/as-a-software-developer-why-should-you-care-about-the-monotonic-clock-7d9c8533595c)
+- [Making a Domain Name Service](https://circleid.com/posts/the_design_of_the_domain_name_system_part_i)
 
 ## Streaming in Distributed Systems : 
 
@@ -37,3 +38,4 @@
 
 - [Apache Flink](https://www.youtube.com/watch?v=Z4Gx7SP1E14)
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.in/Designing-Distributed-Systems-Brendan-Burns/dp/1491983647)
+- [Rearchitecting apps for scale](https://blog.coinbase.com/rearchitecting-apps-for-scale-db438d058e79)

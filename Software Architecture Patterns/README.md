@@ -15,6 +15,7 @@
 - [Singular Update Queue](https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html)
 - [Write-Ahead Log](https://martinfowler.com/articles/patterns-of-distributed-systems/wal.html)
 - [Event Sourcing](https://www.youtube.com/watch?v=rUDN40rdly8)
+- [Avoiding Coordination Cost: Three Patterns for Building Efficient Distributed Systems](https://blog.techlanika.com/avoiding-coordination-cost-three-patterns-for-building-efficient-distributed-systems-b8aff9314e88)
 
 ## More Articles 
 
@@ -26,3 +27,5 @@
 - [The Future of Microservices? More Abstractions](https://thenewstack.io/the-future-of-microservices-more-abstractions/)
 - [What is a quorum?](https://martinfowler.com/articles/patterns-of-distributed-systems/quorum.html)
 - [[BUILD] BFF Pattern with Go Microservices using REST & gRPC.](https://itnext.io/bff-pattern-with-go-microservices-using-rest-grpc-87d269bc2434)
+- [TDD & Clean Code Practices](https://www.youtube.com/watch?v=IZWLnn2fNko)
+- [https://medium.com/codex/the-fifo-fallacy-of-event-driven-architecture-8742477fefd0](The FIFO fallacy of event-driven architecture)
