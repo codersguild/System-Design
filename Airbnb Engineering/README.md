@@ -12,3 +12,4 @@
 - [Airbnb Streamlines the Development Process with a Unified Architecture for Collaborative Hosting](https://www.infoq.com/news/2021/12/airbnb-unified-architecture/)
 - [Graph Machine Learning at Airbnb](https://medium.com/airbnb-engineering/graph-machine-learning-at-airbnb-f868d65f36ee)
 - [Unified Payments Data Read at Airbnb](https://medium.com/airbnb-engineering/unified-payments-data-read-at-airbnb-e613e7af1a39)
+- [Automated Incident Management Through Slack](https://medium.com/airbnb-engineering/incident-management-ae863dc5d47f)
