@@ -9,6 +9,7 @@
 - https://circleci.com/docs/2.0/concepts/
 - https://circleci.com/docs/2.0/deployment-integrations/#using-orbs-to-simplify-deployment
 - [TypeForm's Production : Deep Purple](https://medium.com/typeforms-engineering-blog/typeforms-production-smoke-testing-building-our-tool-deep-purple-8d3ff85d3438)
+- [Failing Forward — How We Grow from Incidents](https://engineering.atspotify.com/2022/05/failing-forward-how-we-grow-from-incidents/)
 - [SE Daily : Union.ai with Ketan Umare](https://softwareengineeringdaily.com/2022/03/23/union-ai-with-ketan-umare/)
 - https://www.freecodecamp.org/news/what-i-learned-during-production-deployment-fe037a6ee4db
 - https://cloud.google.com/appengine/docs/standard/nodejs/building-app/deploying-web-service
