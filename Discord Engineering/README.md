@@ -14,3 +14,4 @@
 - [INVESTIGATING DISCORD’S REACT MEMORY LEAK](https://discord.com/blog/investigating-discords-react-memory-leak)
 - [How Discord Indexes Billions of Messages](https://blog.discord.com/how-discord-indexes-billions-of-messages-e3d5e9be866f)
 - [HOW DATA SCIENCE INFORMS STRATEGY & INNOVATION AT DISCORD](https://discord.com/blog/how-data-science-informs-strategy-innovation-at-discord)
+- [USING MACHINE LEARNING TO BUILD A DELIGHTFUL NOTIFICATION EXPERIENCE](https://discord.com/blog/building-delightful-notifications-using-ml)
