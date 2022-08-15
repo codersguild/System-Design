@@ -1,6 +1,7 @@
 # Uber Engineering Blog (Links)
 
 - [Designing Uber](http://highscalability.com/blog/2022/1/25/designing-uber.html)
+- [Vertical CPU Scaling: Reduce Cost of Capacity and Increase Reliability](https://www.uber.com/en-IN/blog/vertical-cpu-scaling/)
 - [Design the Uber backend: System design walkthrough (educative)](https://www.educative.io/blog/uber-backend-system-design)
 - [The Uber Engineering Tech Stack, Part I: The Foundation](https://eng.uber.com/tech-stack-part-one-foundation/)
 - [Uber’s Fulfillment Platform: Ground-up Re-architecture to Accelerate Uber’s Go/Get Strategy](https://eng.uber.com/fulfillment-platform-rearchitecture)
