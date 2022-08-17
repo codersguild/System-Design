@@ -13,3 +13,4 @@
 - [Beyond the last message: Designing for all information in Slack ](https://slack.design/articles/beyond-the-last-message-designing-for-all-information-in-slack/)
 - [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
 - [Remote Development at Slack](https://slack.engineering/remote-development-at-slack/)
+- [A Day in the Life of a Backend Product Engineer at Slack*](https://medium.com/several-people-are-coding/a-day-in-the-life-of-a-backend-product-engineer-at-slack-e786a8a08fc4)
