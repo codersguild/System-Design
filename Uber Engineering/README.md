@@ -31,4 +31,5 @@
 - [Architecting with Google Cloud](https://www.youtube.com/watch?v=DY2AR8Wzg3Y)
 - [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/)
 - [Faster Neural Networks Straight from JPEG](https://eng.uber.com/neural-networks-jpeg/)
+- [Uber’s Next Gen Push Platform on gRPC](https://www.uber.com/en-IN/blog/ubers-next-gen-push-platform-on-grpc/)
 - [Uber Design GKCS](https://www.youtube.com/watch?v=W0KNQuMka-Q)
