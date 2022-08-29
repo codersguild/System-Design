@@ -7,4 +7,4 @@
 * [Building a Serverless Outbreak Management Solution with AWS Data Lab](https://aws.amazon.com/blogs/architecture/building-a-serverless-outbreak-management-solution-with-aws-data-lab/)
 * [How Amazon Is Using AI To Better Understand Customer Search Queries](https://analyticsindiamag.com/how-amazon-is-using-ai-to-better-understand-customer-search-queries/)
 * [AWS RDS Readable Standby -- InfoQ](https://www.infoq.com/news/2022/01/aws-rds-readable-standby)
-
+* [Lumos: Amazon’s internal, large-scale serverless payments system](https://www.youtube.com/watch?v=8DkwUeZeVHo)
