@@ -12,7 +12,10 @@ the source code, see if you can co-relate with paper and code in the repo.
 
 - [Bitcoin Original Paper](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+- [Crypto and NFTs Dominate the Headlines, but Smart Money Bets on Web3](https://thenewstack.io/crypto-and-nfts-dominate-the-headlines-but-smart-money-bets-on-web3/)
+- [Modular Blockchain Architecture with Nader Dabit](https://softwareengineeringdaily.com/2022/08/29/modular-blockchain-architecture/)
 - [Solana White Paper](https://solana.com/solana-whitepaper.pdf)
+- [Solana blockchain and the Proof of History](https://www.infoworld.com/article/3666736/solana-blockchain-and-the-proof-of-history.html#:~:text=Solana%20is%20considered%20the%20fastest,2022%203%3A00%20am%20PDT)
 - [**SE Daily - Web3 & Stuff**](https://softwareengineeringdaily.com/category/web3/)
 - [Blockchain for Govt.](https://www.mitre.org/sites/default/files/publications/blockchain-technology-for-government-18-1069.pdf)
 - [Understanding Blockchain Fundamentals, Part 1: Byzantine Fault Tolerance](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419)
