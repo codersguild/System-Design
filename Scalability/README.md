@@ -23,3 +23,4 @@
 - [Google Cloud Architecture Framework: System design](https://cloud.google.com/architecture/framework/system-design)
 - [Refactoring and Optimizing a High Traffic API at PayPal](https://medium.com/paypal-tech/refactoring-and-optimizing-a-high-traffic-api-at-paypal-eb11c373d795)
 - [A Recipe to Migrate and Scale Monoliths in the Cloud](https://www.infoq.com/articles/cloud-migrate-scale/?topicPageSponsorship=2db34777-a828-4199-8777-865da05e8838&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design)
+- [Building Large-Scale Real-Time JSON Applications](https://thenewstack.io/building-large-scale-real-time-json-applications/)
