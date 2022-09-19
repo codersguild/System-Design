@@ -36,3 +36,5 @@ Implementation & Project links.
 - [My Favorite Microservice Design Patterns for Node.js](https://blog.bitsrc.io/my-favorite-microservice-design-patterns-for-node-js-fe048c635d83)
 - [Remote Code Execution Platform](https://medium.com/@yashbudukh/building-a-remote-code-execution-system-9e55c5b248d6)
 - [What happens when you type a URL into your browser?](https://www.youtube.com/watch?v=AlkDbnbv7dk)
+- [What The Tech?! NATS and all-things Golang](https://blog.hackajob.co/nats-and-all-things-golang/)
+- [Cool Stuff With Go’s AST Package Pt 1](https://medium.com/swlh/cool-stuff-with-gos-ast-package-pt-1-981460cddcd7)
