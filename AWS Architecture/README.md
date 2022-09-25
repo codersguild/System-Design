@@ -10,3 +10,4 @@
 * [Lumos: Amazon’s internal, large-scale serverless payments system](https://www.youtube.com/watch?v=8DkwUeZeVHo)
 * [Netflix Realizes Multi-Region Resiliency on Amazon Route 53](https://www.youtube.com/watch?v=WDDkLOT8SCk&list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb&index=12)
 * [Netflix & Amazon SES Case Study](https://aws.amazon.com/ses/netflix-ses-case-study/)
+* [Fix This Podcast](https://aws.amazon.com/solutions/case-studies/fix-this/?podcast-list.sort-by=item.additionalFields.DatePublished&podcast-list.sort-order=desc&awsf.tech-category-filter=*all&awsf.industry-filter=*all)
