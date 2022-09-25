@@ -3,6 +3,7 @@
 * [Netflix OSS](https://github.com/Netflix)
 * [Netflix System Design Part-1](https://dev.to/gbengelebs/netflix-system-design-how-netflix-onboards-new-content-2dlb)
 * [Netflix System Design Part-2](https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3)
+* [Netflix on AWS Full Series](https://aws.amazon.com/solutions/case-studies/netflix/?trk=global_employee_advocacy&sc_channel=sm&advocacy_source=everyonesocial&es_id=94a141c779)
 * [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 * [Lessons for Architectural Design](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
 * [How Netflix works](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-a40c9be254b#:~:text=Such%20a%20structure%20is%20what,resources%20are%20its%20very%20own.)
