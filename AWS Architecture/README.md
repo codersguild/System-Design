@@ -8,3 +8,5 @@
 * [How Amazon Is Using AI To Better Understand Customer Search Queries](https://analyticsindiamag.com/how-amazon-is-using-ai-to-better-understand-customer-search-queries/)
 * [AWS RDS Readable Standby -- InfoQ](https://www.infoq.com/news/2022/01/aws-rds-readable-standby)
 * [Lumos: Amazon’s internal, large-scale serverless payments system](https://www.youtube.com/watch?v=8DkwUeZeVHo)
+* [Netflix Realizes Multi-Region Resiliency on Amazon Route 53](https://www.youtube.com/watch?v=WDDkLOT8SCk&list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb&index=12)
+* [Netflix & Amazon SES Case Study](https://aws.amazon.com/ses/netflix-ses-case-study/)
