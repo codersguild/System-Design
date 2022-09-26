@@ -18,3 +18,4 @@
 * [Razorpay -- Building a SAST program at Razorpay’s scale](https://engineering.razorpay.com/building-a-sast-program-at-razorpays-scale-719887fe0aec)
 * [Razorpay -- Go Consuming All Your Resources?](https://engineering.razorpay.com/golang-consuming-all-your-resources-5730cac4b61)
 * [Lumos: Amazon’s internal, large-scale serverless payments system](https://www.youtube.com/watch?v=8DkwUeZeVHo)
+* [UPI Basics: UPI 101](https://blog.setu.co/articles/upi-101-the-basics)
