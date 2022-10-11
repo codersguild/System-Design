@@ -39,3 +39,4 @@ the source code, see if you can co-relate with paper and code in the repo.
 - [How Terra Works?](https://docs.terra.money/docs/learn/protocol.html)
 - [Automated Trading with Coinrule: https://coinrule.com/](https://coinrule.com/)
 - [Web 3.0 versus the previous stacks.](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6985263220735234048-3cBl?utm_source=share&utm_medium=member_desktop)
+- [Blockchain architecture for trusted transactions](https://www.ibm.com/cloud/architecture/architectures/blockchainArchitecture/)
