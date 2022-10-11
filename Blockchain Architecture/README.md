@@ -37,4 +37,6 @@ the source code, see if you can co-relate with paper and code in the repo.
 - [Web 3.0 (BuzzWord for some!)](https://coinmarketcap.com/alexandria/article/what-is-web-3-0)
 - [Arweave with Sam Williams](https://softwareengineeringdaily.com/2022/05/12/arweave-with-sam-williams/)
 - [How Terra Works?](https://docs.terra.money/docs/learn/protocol.html)
-- [https://coinrule.com/](https://coinrule.com/)
+- [Automated Trading with Coinrule: https://coinrule.com/](https://coinrule.com/)
+- [Web 3.0 versus the previous stacks.](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6985263220735234048-3cBl?utm_source=share&utm_medium=member_desktop)
+- [Blockchain architecture for trusted transactions](https://www.ibm.com/cloud/architecture/architectures/blockchainArchitecture/)
