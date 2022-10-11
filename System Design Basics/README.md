@@ -35,6 +35,8 @@
 * [Pitfalls and Patterns in Microservice Dependency Management](https://www.youtube.com/watch?v=kjbfvP65Jn0)
 * [Language Choice Matters : Why We Switched from Python to Go](https://softwareengineeringdaily.com/2021/03/03/why-we-switched-from-python-to-go/)
 * [Pieces of a Scalable iOS App Architecture](https://betterprogramming.pub/pieces-of-a-scalable-ios-app-architecture-7c182f9dcd2c)
+* [Robustness in Complex Systems](https://www.gribble.org/papers/robust.pdf)
+* [Out of the tar pit](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf)
 * [Create Distributed, Scalable, Durable, and Highly Available Software— With Cadence](https://betterprogramming.pub/create-distributed-scalable-durable-and-highly-available-software-with-cadence-9f4fa6b1376b?gi=f8dcb5bb93b1)
 
 ## Machine Coding Basics
