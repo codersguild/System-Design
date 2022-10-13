@@ -5,3 +5,4 @@
 - [Hunting a Linux kernel bug](https://blog.twitter.com/engineering/en_us/topics/open-source/2020/hunting-a-linux-kernel-bug)
 - [Dropping cache didn’t drop cache](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache)
 - [Logging at Twitter: Updated](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated)
+- [Google Case Studies: Twitter](https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform)
