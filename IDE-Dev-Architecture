@@ -1,0 +1,5 @@
+- [Understanding Visual Studio Code architecture](https://franz-ajit.medium.com/understanding-visual-studio-code-architecture-5fc411fca07)
+- [VSCode Architecture And Overview](https://www.c-sharpcorner.com/article/vscode-architecture-and-overview/)
+- [Monorepos](https://www.toptal.com/front-end/guide-to-monorepos)
+- [Fleet Below Deck, Part I – Architecture Overview](https://blog.jetbrains.com/fleet/2022/01/fleet-below-deck-part-i-architecture-overview/)
+- [Fleet Below Deck, Part II – Breaking down the editor](https://blog.jetbrains.com/fleet/2022/02/fleet-below-deck-part-ii-breaking-down-the-editor/)
