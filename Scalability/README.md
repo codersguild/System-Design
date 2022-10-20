@@ -5,6 +5,7 @@
 - [SE Daily - Architecting for Scale with Lee Atchison](https://softwareengineeringdaily.com/2022/02/12/architecting-for-scale-with-lee/)
 - [https://www.infoq.com/articles/ebay-scalability-best-practices/](https://www.infoq.com/articles/ebay-scalability-best-practices/)
 - [http://highscalability.com/blog/2009/8/11/13-scalability-best-practices.html](http://highscalability.com/blog/2009/8/11/13-scalability-best-practices.html)
+- [How to Improve Your OAuth Developer Experience](https://thenewstack.io/how-to-improve-your-oauth-developer-experience/)
 - [Upgrading the rocket in the air – CTO Decisions with Cos Nicolaescu](https://softwareengineeringdaily.com/2022/06/09/cto-decisions-with-cos-nicolaescu/)
 - [https://www.keycdn.com/blog/scalability-testing](https://www.keycdn.com/blog/scalability-testing)
 - [Node.js App with Auto-scalling](https://node.university/blog/10954/aws-autoscaling)
