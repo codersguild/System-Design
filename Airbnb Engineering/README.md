@@ -14,3 +14,4 @@
 - [Unified Payments Data Read at Airbnb](https://medium.com/airbnb-engineering/unified-payments-data-read-at-airbnb-e613e7af1a39)
 - [Automated Incident Management Through Slack](https://medium.com/airbnb-engineering/incident-management-ae863dc5d47f)
 - [Beyond A/B Test : Speeding up Airbnb Search Ranking Experimentation through Interleaving](https://medium.com/airbnb-engineering/beyond-a-b-test-speeding-up-airbnb-search-ranking-experimentation-through-interleaving-7087afa09c8e)
+- [Mussel — Airbnb’s Key-Value Store for Derived Data](https://medium.com/airbnb-engineering/mussel-airbnbs-key-value-store-for-derived-data-406b9fa1b296)
