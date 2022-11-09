@@ -9,3 +9,5 @@
 - [Designing Resilient Microservices — Part 1](https://bytes.swiggy.com/designing-resilient-microservices-part-1-6a72fe964759)
 - [Designing Resilient Microservices — Part 2](https://bytes.swiggy.com/designing-resilient-microservices-part-2-14f8b564f622)
 - [Segmentation at Swiggy](https://bytes.swiggy.com/segmentation-at-swiggy-part-1-d9566ab1a442)
+- [Segmentation at Swiggy — Part 3](https://bytes.swiggy.com/segmentation-at-swiggy-part-3-final-part-b740f7a3697d)
+- [Address Location Correction System for Q-commerce](https://bytes.swiggy.com/address-location-correction-system-for-q-commerce-57c82ef291d7)
