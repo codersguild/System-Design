@@ -6,6 +6,7 @@
 * [Discovering Hot Topics using Machine Learning](https://aws.amazon.com/blogs/architecture/discovering-hot-topics-using-machine-learning/)
 * [Building a Serverless Outbreak Management Solution with AWS Data Lab](https://aws.amazon.com/blogs/architecture/building-a-serverless-outbreak-management-solution-with-aws-data-lab/)
 * [How Amazon Is Using AI To Better Understand Customer Search Queries](https://analyticsindiamag.com/how-amazon-is-using-ai-to-better-understand-customer-search-queries/)
+* [Snap Optimizes Cost Savings While Storing Over 1.5 Trillion Photos and Videos on Amazon S3 Glacier Instant Retrieval](https://aws.amazon.com/solutions/case-studies/snap-case-study/?did=cr_card&trk=cr_card)
 * [AWS RDS Readable Standby -- InfoQ](https://www.infoq.com/news/2022/01/aws-rds-readable-standby)
 * [Lumos: Amazon’s internal, large-scale serverless payments system](https://www.youtube.com/watch?v=8DkwUeZeVHo)
 * [Netflix Realizes Multi-Region Resiliency on Amazon Route 53](https://www.youtube.com/watch?v=WDDkLOT8SCk&list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb&index=12)
