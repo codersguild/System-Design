@@ -6,3 +6,4 @@
 - [Dropping cache didn’t drop cache](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache)
 - [Logging at Twitter: Updated](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated)
 - [Google Case Studies: Twitter](https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform)
+- [Twitter Architecture 2022 vs. 2012. What’s changed over the past 10 years?](https://twitter.com/alexxubyte/status/1594008281340530688)
