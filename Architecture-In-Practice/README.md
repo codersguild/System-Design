@@ -15,8 +15,6 @@ I am mentioning those with which I am familiar with (have atleast worked with th
 - Networking: DNS, Routing, Firewalls, Load balancers, etc.
 - Databases: MongoDB or other NoSQL database, PostgreSQL, MySQL, Time Series Database
 
-## WIP/TBD Links
-
 Short description of tools and links. 
 
 - [Postman](https://www.youtube.com/watch?v=VywxIQ2ZXw4&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=4)
@@ -27,3 +25,8 @@ Short description of tools and links.
 - [Superbase](https://supabase.io/docs)
 - [Insomnia](https://insomnia.rest/)
 - [Docker](https://docs.docker.com/)
+
+## Emerging Trends
+
+- [Emerging Trends in Software Architecture](https://www.oreilly.com/library/view/software-architecture-a/9788131707494/ch07.html)
+- [Software Architecture and Design InfoQ Trends Report—April 2020](https://www.infoq.com/articles/architecture-trends-2020/)
