@@ -14,3 +14,4 @@
 - [Optimizing Flipkart’s Serviceability Data from 300 GB to 150 MB in-memory](https://tech.flipkart.com/remodelling-flipkarts-serviceability-data-an-optimization-journey-from-300-gb-to-150-mb-in-memory-5c7e9c38bde)
 - [Running a multi-region Zookeeper](https://tech.flipkart.com/running-a-multi-region-zookeeper-58e52cec44ff)
 - [Memory Tuning a High Throughput Microservice](https://tech.flipkart.com/memory-tuning-a-high-throughput-microservice-ed57b3e60997)
+- [Predicting your next query even before you type!](https://medium.com/flipkart-engineering/predicting-your-next-query-even-before-you-type-83487a34109d)
