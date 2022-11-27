@@ -16,6 +16,7 @@
 - [**The Future of Microservices?** More Abstractions](https://thenewstack.io/the-future-of-microservices-more-abstractions)
 - [Caching Works!](https://www.youtube.com/watch?v=ASP7O5fDpSg)
 - [8 steps to build a scalable and distributed system design for web applications](https://www.linkedin.com/pulse/8-steps-build-scalable-distributed-system-design-web-yamit-mehta)
+- [The Scoop #33: Will Google start to pay less, over time?](https://newsletter.pragmaticengineer.com/p/the-scoop-33)
 - ["Functional distributed systems beyond request/response" by Melinda Lu](https://www.youtube.com/watch?v=VWrpnT8rwVY)
 - [BBC Online: Architecting for Scale with the Cloud and Serverless](https://www.youtube.com/watch?v=WE-tkz2tf30)
 - [Microservices Database Management](https://relevant.software/blog/microservices-database-management/)
