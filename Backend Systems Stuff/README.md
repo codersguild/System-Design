@@ -9,6 +9,7 @@
 - [System Design — Design a distributed job scheduler (KISS Interview series)](https://medium.com/@raxshah/system-design-design-a-distributed-job-scheduler-kiss-interview-series-753107c0104c)
 - [SE Daily - Knowledge-Based Programming with Stephen Wolfram](https://softwareengineeringdaily.com/2015/11/10/knowledge-based-programming-with-stephen-wolfram/)
 - [TV Input Format Architecture -- Hardware*](https://source.android.com/devices/tv)
+- [What Is Cloud Computing? According To ChatGPT.](http://highscalability.com/blog/2022/12/16/what-is-cloud-computing-according-to-chatgpt.html)
 
 ### Eventual Consistency & CAP Theorem
 
