@@ -18,6 +18,7 @@ Understand the basics of the web before diving in **System Design**.
 - [Build a website with Notion in seconds, no coding required](https://www.notion.so/help/guides/build-a-website-with-notion-in-seconds-no-coding-required)
 - [Browser Observability With Jay Khatri](https://softwareengineeringdaily.com/2022/05/20/browser-observability-with-jay/)
 - [Exploring JS](https://exploringjs.com/)
+- [Prepping for 2023: What’s Ahead for Frontend Developers](https://thenewstack.io/prepping-for-2023-whats-ahead-for-frontend-developers/)
 
 ## App/Full-Stack/Backend Engineering 
 
@@ -39,3 +40,4 @@ Implementation & Project links.
 - [What happens when you type a URL into your browser?](https://www.youtube.com/watch?v=AlkDbnbv7dk)
 - [What The Tech?! NATS and all-things Golang](https://blog.hackajob.co/nats-and-all-things-golang/)
 - [Cool Stuff With Go’s AST Package Pt 1](https://medium.com/swlh/cool-stuff-with-gos-ast-package-pt-1-981460cddcd7)
+- [How to Support a Million Users on Your Website: A Success Stor](https://thenewstack.io/how-to-support-a-million-users-on-your-website-a-success-story/)
