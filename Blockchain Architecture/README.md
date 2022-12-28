@@ -22,6 +22,7 @@ the source code, see if you can co-relate with paper and code in the repo.
 - [Consensus Algorithms: The Root Of Blockchain Technology](https://101blockchains.com/consensus-algorithms-blockchain/)
 - [https://blog.coinbase.com/blockchain-infrastructure-at-coinbase-366c09dbcef4](https://blog.coinbase.com/blockchain-infrastructure-at-coinbase-366c09dbcef4)
 - [The Raft Consensus Algorithm](https://raft.github.io/) 
+- [Why Web3 Needs a Real-Time Data Layer Now More Than Ever](https://thenewstack.io/why-web3-needs-a-real-time-data-layer-now-more-than-ever/)
 - [Cryptocurrency Price Prediction Using Deep Learning](https://towardsdatascience.com/cryptocurrency-price-prediction-using-deep-learning-70cfca50dd3a)
 - [Cryptocurrency Prediction with LSTM](https://towardsdatascience.com/cryptocurrency-prediction-with-lstm-4cc369c43d1b)
 - [Bittrex API Docs](https://bittrex.github.io/api/v3)
