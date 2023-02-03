@@ -7,3 +7,4 @@
 - [The Essential Guide to Neural Network Architectures](https://www.v7labs.com/blog/neural-network-architectures-guide)
 - [Neural Style Transfer: Everything You Need to Know [Guide]](https://www.v7labs.com/blog/neural-style-transfer)
 - [MLOps -- Continuous Delivery for Machine Learning on AWS](https://d1.awsstatic.com/whitepapers/mlops-continuous-delivery-machine-learning-on-aws.pdf)
+- [How ChatGPT works?](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7026228879040081920--KQ4?utm_source=share&utm_medium=member_desktop)
