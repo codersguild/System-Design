@@ -39,3 +39,4 @@
 - [Apache Flink](https://www.youtube.com/watch?v=Z4Gx7SP1E14)
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.in/Designing-Distributed-Systems-Brendan-Burns/dp/1491983647)
 - [Rearchitecting apps for scale](https://blog.coinbase.com/rearchitecting-apps-for-scale-db438d058e79)
+- [Confluent -- Event-Driven architectures](https://www.confluent.io/resources/event-driven-microservices/?utm_medium=display&utm_source=google&utm_campaign=ch.display_tp.rmkt_tgt.key-page-visit-no-hva-discovery_rgn.india_lng.eng_dv.all_con.event-driven-microservice-whitepaper&utm_term=&creative=alc2-confluent-180Days&device=c&placement=&gclid=Cj0KCQiAutyfBhCMARIsAMgcRJSuqHFbODW-SGnf7zOcQNz622QGMnI2Jgi0riOBcCXs-O-h6M15VXoaArg9EALw_wcB)
