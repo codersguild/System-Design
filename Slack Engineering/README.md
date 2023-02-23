@@ -14,3 +14,4 @@
 - [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
 - [Remote Development at Slack](https://slack.engineering/remote-development-at-slack/)
 - [A Day in the Life of a Backend Product Engineer at Slack*](https://medium.com/several-people-are-coding/a-day-in-the-life-of-a-backend-product-engineer-at-slack-e786a8a08fc4)
+- [Building the Next Evolution of Cloud Networks at Slack – A Retrospective](https://slack.engineering/building-the-next-evolution-of-cloud-networks-at-slack-a-retrospective/)
