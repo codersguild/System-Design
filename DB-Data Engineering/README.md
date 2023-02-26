@@ -26,3 +26,4 @@
 - [SE Daily : CloudGraph with Tyson Kunovsky](https://softwareengineeringdaily.com/2022/05/21/cloudgraph-with-tyson-kunovsky/)
 - [Ballerina: a Data-Oriented Programming Language](https://www.infoq.com/articles/ballerina-data-oriented-language/?topicPageSponsorship=2db34777-a828-4199-8777-865da05e8838&itm_source=articles_about_architecture-design&itm_medium=link&itm_campaign=architecture-design)
 - [https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/](https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/)
+- [A Golang-based, scalable, high-performance, high availability distributed time series database](https://github.com/lindb/lindb)
