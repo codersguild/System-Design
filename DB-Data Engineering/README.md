@@ -5,6 +5,7 @@
 - [SE Daily : Couchbase Architecture with Ravi Mayuram](https://softwareengineeringdaily.com/2022/01/28/couchbase-architecture-with-ravi/)
 - [SE Daily : RudderStack Engineering with Soumaydeb Mitra](https://softwareengineeringdaily.com/2022/03/16/rudderstack-engineering-with-soumaydeb-mitra/)
 - [10 Things You Should Know About Running MongoDB At Scale](http://highscalability.com/blog/2014/3/5/10-things-you-should-know-about-running-mongodb-at-scale.html)
+- [What is a Vector Database?](https://www.pinecone.io/learn/vector-database/?utm_medium=link&utm_source=high-scalability&utm_campaign=sponsored)
 - [Design patterns. Short and clear. Part 5: Database Patterns.](https://it.badykov.com/blog/2018/11/05/database-patterns/)
 - [Scaling PlanetScale with Sugu Sougoumarane](https://softwareengineeringdaily.com/2022/01/31/scaling-planetscale-with-sugu-sougoumarane/)
 - [6 Data Import Challenges Facing Software Developers](https://softwareengineeringdaily.com/2022/01/15/6-data-import-challenges-facing-software-developers/)
