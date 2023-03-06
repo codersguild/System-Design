@@ -13,6 +13,7 @@
 
 ### Eventual Consistency & CAP Theorem
 
+- [Building High Scale Backend Systems](https://www.youtube.com/watch?v=8lHr8T5JIJs)
 - [https://www.allthingsdistributed.com/2008/12/eventually_consistent.html](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 - [https://levelup.gitconnected.com/eventual-consistency-what-how-and-why-50c942472a0c](https://levelup.gitconnected.com/eventual-consistency-what-how-and-why-50c942472a0c)
 - [https://medium.com/swlh/go-microservice-with-clean-architecture-a-major-upgrade-34a4cedb0b06](https://medium.com/swlh/go-microservice-with-clean-architecture-a-major-upgrade-34a4cedb0b06)
