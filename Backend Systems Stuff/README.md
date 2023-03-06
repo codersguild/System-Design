@@ -23,3 +23,4 @@
 - [https://www.youtube.com/watch?v=LAsMrghdFP0](https://www.youtube.com/watch?v=LAsMrghdFP0) 
 - [Cap Theorem : https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 - [Yahoo! CAP](https://edisciplinas.usp.br/pluginfile.php/2541318/mod_resource/content/1/TeoremaDeBrewer.pdf)
+- [Consistent Hashing Algorithm](http://highscalability.com/blog/2023/2/22/consistent-hashing-algorithm.html)
