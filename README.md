@@ -33,6 +33,8 @@ We are working to create good content to fulfil the needs of system-design noobs
 
 System design is a very broad topic. Even a software engineer with many years of working experience at a top IT company may not be an expert on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems.
 
+In order to practice designing a few systems, for the love or learning or preparing for interviews, you can use this [practice platform](https://workat.tech/system-design/practice).
+
 This repository only teaches you how to handle the system design interview with a systematic approach in a concise way. You can dive into each topic if you have time. Of course, welcome to add your thoughts!.
 
 ## <a name='toc'>Table of Contents</a>
