@@ -44,3 +44,4 @@
 - [Infrastructure-as-Code is the building block for scalable technology](https://blogs.oracle.com/startup/post/infrastructure-as-code-is-the-building-block-for-scalable-technology)
 - [Decision Making on Prices : Taloflow with LV Jadavji](https://softwareengineeringdaily.com/2022/03/02/taloflow-with-lv-jadavji/)
 - [SE Daily : GitOps and Policy Management with Alexis Richardson and Mohamed Ahmed](https://softwareengineeringdaily.com/2022/03/30/gitops-and-policy-management-with-alexis-richardson-and-mohamed-ahmed/)
+- [Machine Learning Pipeline: Architecture of ML Platform in Production](https://www.altexsoft.com/blog/machine-learning-pipeline/)
