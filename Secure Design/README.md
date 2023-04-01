@@ -1,0 +1,4 @@
+- [https://www.toptal.com/api-developers/5-golden-rules-for-designing-a-great-web-api](5 Golden Rules for Great Web API Design)
+- [https://blog.bytebytego.com/p/how-to-design-a-secture-web-api-access](How to design a secure web API access for your website?)
+- [https://www.f5.com/labs/learning-center/securing-apis-10-best-practices-for-keeping-your-data-and-infrastructure-safe](Securing APIs: 10 Best Practices for Keeping Your Data and Infrastructure Saf)
+- [https://blog.axway.com/learning-center/digital-security/keys-oauth/api-security-best-practices](API security: 12 essential best practices)
