@@ -6,6 +6,8 @@
 - https://docs.travis-ci.com/user/for-beginners/
 - https://buddy.works/
 - https://travis-ci.org/
+- [What Is Platform Engineering?](https://www.gartner.com/en/articles/what-is-platform-engineering)
+- [The Rise of Platform Engineering](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
 - [Building Containerized GO applications.](https://www.youtube.com/watch?v=eFQIHyuVYoc)
 - [Ninja Build System (C/C++/Go)](https://www.aosabook.org/en/posa/ninja.html)
 - https://circleci.com/docs/2.0/concepts/
