@@ -21,6 +21,7 @@
 - [SE Daily : Apache Hudi](https://softwareengineeringdaily.com/2022/03/08/apache-hudi-with-vinoth-chandar/)
 - [SingleStore with Jordan Tigani](https://softwareengineeringdaily.com/2022/03/28/singlestore-with-jordan-tigani/)
 - [Data Engineering Trends with Lior Gavish and James Densmore](https://softwareengineeringdaily.com/2022/04/04/data-engineering-trends-with-lior-gavish-and-james-densmore/)
+- [GraphQL, meet LiveGraph: a real-time data system at scale](https://www.figma.com/blog/livegraph-real-time-data-fetching-at-figma/)
 - [Redis Data Types: The Basics](https://thenewstack.io/redis-data-types-the-basics/)
 - [SE Daily : TimeSeries InfluxDB](https://softwareengineeringdaily.com/2022/04/14/time-series-iot-on-influxdb-with-brian-gilmore/)
 - [Airbyte Engineering with Michel Tricot](https://softwareengineeringdaily.com/2022/04/26/airbyte-engineering-with-michel-tricot/)
