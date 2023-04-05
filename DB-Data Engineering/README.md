@@ -9,6 +9,7 @@
 - [Design patterns. Short and clear. Part 5: Database Patterns.](https://it.badykov.com/blog/2018/11/05/database-patterns/)
 - [Scaling PlanetScale with Sugu Sougoumarane](https://softwareengineeringdaily.com/2022/01/31/scaling-planetscale-with-sugu-sougoumarane/)
 - [6 Data Import Challenges Facing Software Developers](https://softwareengineeringdaily.com/2022/01/15/6-data-import-challenges-facing-software-developers/)
+- [The growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
 - [SE Daily : DuckDB with Hannes Muleisen](https://softwareengineeringdaily.com/2022/03/18/duckdb-with-hannes-muleisen/)
 - [Massive Scale Databases](https://itnext.io/massive-scale-databases-5b5917ed94e5)
 - [Aggregates, Entities and Value Objects in Domain-Driven Design](https://www.infoq.com/news/2015/01/aggregates-value-objects-ddd/?itm_source=presentations_about_DesignPattern&itm_medium=link&itm_campaign=DesignPattern)
