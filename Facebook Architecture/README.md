@@ -19,3 +19,4 @@
 - [Facebook Engineering Process with Kent Beck](https://softwareengineeringdaily.com/2019/08/28/facebook-engineering-process-with-kent-beck/)
 - [Facebook's Photo Storage Architecture  - scaleyourapp.com](https://www.scaleyourapp.com/facebook-photo-storage-architecture/)
 - [Facebook Timeline: Brought To You By The Power Of Denormalization](http://highscalability.com/blog/2012/1/23/facebook-timeline-brought-to-you-by-the-power-of-denormaliza.html)
+- [Scale at Facebook](https://www.infoq.com/presentations/Scale-at-Facebook/)
