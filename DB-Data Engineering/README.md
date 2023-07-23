@@ -12,6 +12,7 @@
 - [The growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
 - [SE Daily : DuckDB with Hannes Muleisen](https://softwareengineeringdaily.com/2022/03/18/duckdb-with-hannes-muleisen/)
 - [Massive Scale Databases](https://itnext.io/massive-scale-databases-5b5917ed94e5)
+- [Swiggy’s Generative AI Journey: A Peek Into the Future](https://blog.swiggy.com/2023/07/20/swiggys-generative-ai-journey-a-peek-into-the-future/)
 - [Aggregates, Entities and Value Objects in Domain-Driven Design](https://www.infoq.com/news/2015/01/aggregates-value-objects-ddd/?itm_source=presentations_about_DesignPattern&itm_medium=link&itm_campaign=DesignPattern)
 - [Domain-Driven Design with Onion Architecture](https://www.infoq.com/news/2014/10/ddd-onion-architecture/?itm_source=presentations_about_DesignPattern&itm_medium=link&itm_campaign=DesignPattern)
 - [PayPal Adopts GraphQL: Gains Increased Developer Productivity](https://www.infoq.com/news/2021/10/paypal-graphql/?itm_source=presentations_about_Case_Study&itm_medium=link&itm_campaign=Case_Study)
