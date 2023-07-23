@@ -18,6 +18,7 @@ Understand the basics of the web before diving in **System Design**.
 - [Build a website with Notion in seconds, no coding required](https://www.notion.so/help/guides/build-a-website-with-notion-in-seconds-no-coding-required)
 - [Browser Observability With Jay Khatri](https://softwareengineeringdaily.com/2022/05/20/browser-observability-with-jay/)
 - [Exploring JS](https://exploringjs.com/)
+- [15 Open-source Tailwind-based UI Frameworks and Component Libraries](https://medevel.com/15-tailwind-libraries/)
 - [Prepping for 2023: What’s Ahead for Frontend Developers](https://thenewstack.io/prepping-for-2023-whats-ahead-for-frontend-developers/)
 
 ## App/Full-Stack/Backend Engineering 
