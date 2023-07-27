@@ -8,6 +8,8 @@ Modified from [Zach](https://github.com/checkcheckzz) system design repository. 
 
 [![How to "think" (and design) like a Software Architect at Silicon Valley Code Camp 2019](https://img.youtube.com/vi/mCM6QVHD08c/0.jpg)](https://www.youtube.com/watch?v=mCM6QVHD08c)
 
+[![Visualising software architecture with the C4 model - Simon Brown, Agile on the Beach 2019](https://img.youtube.com/vi/x2-rSnhpw0g/0.jpg)](https://www.youtube.com/watch?v=x2-rSnhpw0g)
+
 ## `SYSTEM DESIGN IS NOT JUST FOR INTERVIEWS, IT CAN BE HOW YOU MANAGE YOUR LIFE. GIVE IT A THOUGHT`
 
 ## Disclaimer/Acknowledgements
