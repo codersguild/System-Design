@@ -15,3 +15,4 @@
 - [Pinterest Engineering](https://softwareengineeringdaily.com/2022/01/11/pinterest-engineering/)
 - [Designing WhatsApp](http://highscalability.com/blog/2022/1/3/designing-whatsapp.html)
 - [Snap refactored!](https://www.protocol.com/enterprise/snap-microservices-aws-google-cloud)
+- [Design Twitter - System Design Interview](https://www.youtube.com/watch?v=o5n85GRKuzk)
