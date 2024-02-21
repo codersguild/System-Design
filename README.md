@@ -426,6 +426,7 @@ Use design patterns such that it can be reused in multiple applications.
 * [SOLID Principles made easy](https://hackernoon.com/solid-principles-made-easy-67b1246bcdf)
 * [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
 * [Common System Design Interview Questions](https://www.codekarle.com/)
+* [Common Machine Coding Interview Questions](http://lldcoding.com)
 
 ### [[⬆]](#toc) <a name='dsd'>Distributed System Design :</a>
 
