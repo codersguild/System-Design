@@ -9,3 +9,4 @@ Trust Akamai!
 - [Reverse Proxy](https://www.f5.com/services/resources/glossary/reverse-proxy)
 - [An Analysis of Internet Content Delivery Systems](https://research.cs.washington.edu/networking/websys/pubs/osdi_2002/osdi.pdf)
 - [Attacking a Macro Security Problem with Micro-segmentation](https://www.akamai.com/blog/security/attacking-a-macro-security-problem-with-micro-segmentation)
+- [System Design: Design a URL Shortener like TinyURL](https://www.youtube.com/watch?v=zgIyzEEXfiA)
